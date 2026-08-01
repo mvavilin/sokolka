@@ -1,6 +1,6 @@
 {
   "extends": "@repo/typescript-config/react-library.json",
-  "include": ["."],
+  "include": [".", "eslint.config.js"],
   "exclude": ["node_modules"],
   "compilerOptions": {
     "strictNullChecks": true
