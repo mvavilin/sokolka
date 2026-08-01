@@ -1,0 +1,41 @@
+# dependencies
+node_modules/
+.pnpm-store/
+
+# build
+dist/
+dist-ssr/
+server/dist/
+public/dist/
+.next/
+
+# turbo
+.turbo/
+
+# env
+.env
+.env.*
+*.local
+
+# logs
+*.log
+
+# cache
+.cache/
+.vite/
+
+# testing
+coverage/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# temporary
+*.tmp
+*.temp
+*.swp
