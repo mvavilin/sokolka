@@ -1,0 +1,4 @@
+pnpm exec commitlint --edit "$1" || {
+  echo "❌ Неверный формат коммита. Используй: type(scope): message"
+  exit 1
+}
