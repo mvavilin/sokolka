@@ -14,7 +14,13 @@ export default defineConfig([
   reactHooks.configs.flat.recommended,
   reactRefresh.configs.vite,
 
-  globalIgnores(["dist", "build", "node_modules", "**/vite-env.d.ts"]),
+  globalIgnores([
+    "dist",
+    "build",
+    "node_modules",
+    "**/vite-env.d.ts",
+    "**/shared/ui/**",
+  ]),
 
   {
     files: ["**/*.{js,jsx,ts,tsx}"],

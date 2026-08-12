@@ -3,6 +3,23 @@
   "include": ["src"],
   "compilerOptions": {
     "jsx": "react-jsx",
-    "strictNullChecks": true
+    "strictNullChecks": true,
+    "paths": {
+      "@/*": ["./src/*"],
+      "@app": ["./src/app"],
+      "@app/*": ["./src/app/*"],
+      "@processes/*": ["./src/processes/*"],
+      "@pages/*": ["./src/pages/*"],
+      "@widgets/*": ["./src/widgets/*"],
+      "@features/*": ["./src/features/*"],
+      "@entities/*": ["./src/entities/*"],
+      "@shared/*": ["./src/shared/*"],
+      "@shared/ui/*": ["./src/shared/ui/*"],
+      "@shared/api/*": ["./src/shared/api/*"],
+      "@shared/lib/*": ["./src/shared/lib/*"],
+      "@shared/config/*": ["./src/shared/config/*"],
+      "@shared/assets/*": ["./src/shared/assets/*"],
+      "@shared/constants/*": ["./src/shared/constants/*"]
+    }
   }
 }
