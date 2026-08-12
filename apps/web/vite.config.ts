@@ -4,5 +4,6 @@ import tsconfigPaths from "vite-tsconfig-paths";
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
+  base: "/sokolka/",
   plugins: [react(), tsconfigPaths(), tailwindcss()],
 });
