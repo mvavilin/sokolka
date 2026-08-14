@@ -1,6 +1,6 @@
 {
   "extends": "@repo/typescript-config/vite.json",
-  "include": ["src"],
+  "include": ["src", "../../prettier.config.js"],
   "compilerOptions": {
     "jsx": "react-jsx",
     "strictNullChecks": true,
@@ -9,6 +9,7 @@
       "@app": ["./src/app"],
       "@app/*": ["./src/app/*"],
       "@processes/*": ["./src/processes/*"],
+      "@pages": ["./src/pages"],
       "@pages/*": ["./src/pages/*"],
       "@widgets/*": ["./src/widgets/*"],
       "@features/*": ["./src/features/*"],

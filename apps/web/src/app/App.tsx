@@ -1,11 +1,8 @@
-import type { JSX } from "react";
-import "@app/styles/index.css";
-import { Button } from "@shared/ui/button";
+import { RouterProvider } from '@app';
 
-const App = (): JSX.Element => (
+const App = (): React.JSX.Element => (
   <>
-    <h1 className="text-3xl font-bold underline">Hello world!</h1>
-    <Button variant="outline">Button</Button>
+    <RouterProvider />
   </>
 );
 
