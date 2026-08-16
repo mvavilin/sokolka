@@ -6,7 +6,7 @@
     "dev": "turbo run dev",
     "lint": "turbo run lint --output-logs=errors-only",
     "lint:fix": "turbo run lint:fix",
-    "format": "prettier --write --log-level=warn \"**/*.{ts,tsx,js,jsx,json,md}\"",
+    "format": "prettier --write --log-level=warn \"**/*.{ts,tsx,js,jsx,json,md,css}\"",
     "prepare": "husky"
   },
   "lint-staged": {
