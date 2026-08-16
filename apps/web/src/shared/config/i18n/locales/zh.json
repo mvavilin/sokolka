@@ -1,0 +1,33 @@
+{
+  "app": {
+    "title": "索科尔卡村",
+    "theme": "主题",
+    "language": "语言",
+    "fontSize": "字体大小"
+  },
+  "settings": {
+    "theme": {
+      "title": "主题",
+      "light": "浅色",
+      "dark": "深色"
+    },
+    "fontSize": {
+      "title": "字体大小",
+      "small": "小",
+      "medium": "中",
+      "large": "大"
+    },
+    "language": {
+      "title": "语言",
+      "ru": "Рус语",
+      "en": "English",
+      "zh": "中文"
+    },
+    "photoView": {
+      "title": "照片显示方式",
+      "grid": "网格",
+      "list": "列表",
+      "masonry": "瀑布流"
+    }
+  }
+}
