@@ -10,7 +10,7 @@ const PhotoViewSettings = (): React.JSX.Element => {
 
   return (
     <SettingsToggleGroup
-      title={t('settings.photoView.title')}
+      title={t('settings.photoView.label')}
       value={photoView}
       options={PHOTO_VIEW_OPTIONS.map((option) => ({
         value: option.value,

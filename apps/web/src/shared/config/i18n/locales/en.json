@@ -1,33 +1,39 @@
 {
   "app": {
-    "title": "Sokolka Village",
-    "theme": "Theme",
-    "language": "Language",
-    "fontSize": "Font size"
+    "title": "Sokolka Village"
   },
   "settings": {
+    "title": "Settings",
     "theme": {
-      "title": "Theme",
-      "light": "Light",
-      "dark": "Dark"
+      "label": "Theme",
+      "options": {
+        "light": "Light",
+        "dark": "Dark"
+      }
     },
     "fontSize": {
-      "title": "Font size",
-      "small": "Small",
-      "medium": "Medium",
-      "large": "Large"
+      "label": "Font size",
+      "options": {
+        "small": "Small",
+        "medium": "Medium",
+        "large": "Large"
+      }
     },
     "language": {
-      "title": "Language",
-      "ru": "Русский",
-      "en": "English",
-      "zh": "中文"
+      "label": "Language",
+      "options": {
+        "ru": "Русский",
+        "en": "English",
+        "zh": "中文"
+      }
     },
     "photoView": {
-      "title": "Photo view",
-      "grid": "Grid",
-      "list": "List",
-      "masonry": "Masonry"
+      "label": "Photo view",
+      "options": {
+        "grid": "Grid",
+        "list": "List",
+        "masonry": "Masonry"
+      }
     }
   }
 }

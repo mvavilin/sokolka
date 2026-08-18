@@ -10,7 +10,7 @@ const FontSizeSettings = (): React.JSX.Element => {
 
   return (
     <SettingsToggleGroup
-      title={t('settings.fontSize.title')}
+      title={t('settings.fontSize.label')}
       value={fontSize}
       options={FONT_SIZE_OPTIONS.map((option) => ({
         value: option.value,

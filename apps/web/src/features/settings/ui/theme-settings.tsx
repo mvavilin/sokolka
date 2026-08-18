@@ -10,7 +10,7 @@ const ThemeSettings = (): React.JSX.Element => {
 
   return (
     <SettingsToggleGroup
-      title={t('settings.theme.title')}
+      title={t('settings.theme.label')}
       value={theme}
       options={THEME_OPTIONS.map((option) => ({
         value: option.value,

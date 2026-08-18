@@ -10,7 +10,7 @@ const LanguageSettings = (): React.JSX.Element => {
 
   return (
     <SettingsToggleGroup
-      title={t('settings.language.title')}
+      title={t('settings.language.label')}
       value={language}
       options={LANGUAGE_OPTIONS.map((option) => ({
         value: option.value,

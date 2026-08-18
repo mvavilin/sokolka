@@ -1,33 +1,44 @@
 {
   "app": {
-    "title": "Село Соколка",
-    "theme": "Тема",
-    "language": "Язык",
-    "fontSize": "Размер шрифта"
+    "title": "Село Соколка"
   },
+
   "settings": {
+    "title": "Настройки",
+
     "theme": {
-      "title": "Тема",
-      "light": "Светлая",
-      "dark": "Тёмная"
+      "label": "Тема",
+      "options": {
+        "light": "Светлая",
+        "dark": "Тёмная"
+      }
     },
-    "fontSize": {
-      "title": "Размер шрифта",
-      "small": "Маленький",
-      "medium": "Средний",
-      "large": "Большой"
-    },
+
     "language": {
-      "title": "Язык",
-      "ru": "Русский",
-      "en": "English",
-      "zh": "中文"
+      "label": "Язык",
+      "options": {
+        "ru": "Русский",
+        "en": "English",
+        "zh": "中文"
+      }
     },
+
+    "fontSize": {
+      "label": "Размер шрифта",
+      "options": {
+        "small": "Маленький",
+        "medium": "Средний",
+        "large": "Большой"
+      }
+    },
+
     "photoView": {
-      "title": "Представление фотографий",
-      "grid": "Сетка",
-      "list": "Список",
-      "masonry": "Плитка"
+      "label": "Представление фотографий",
+      "options": {
+        "grid": "Сетка",
+        "list": "Список",
+        "masonry": "Плитка"
+      }
     }
   }
 }
