@@ -98,6 +98,7 @@ export default defineConfig([
       'unicorn/no-array-push-push': 'error',
 
       'unicorn/prefer-switch': ['error', { minimumCases: 3 }],
+      'unicorn/no-null': 'off',
     },
 
     linterOptions: {

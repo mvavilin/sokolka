@@ -1,0 +1,562 @@
+[
+  {
+    "id": "001",
+    "title": {
+      "ru": "Главная улица села",
+      "en": "Main Street of the Village",
+      "zh": "村庄主街"
+    },
+    "alt": {
+      "ru": "Главная улица села Соколка",
+      "en": "Main street of Sokolka village",
+      "zh": "索科尔卡村的主街道"
+    },
+    "description": {
+      "ru": "Вид на главную улицу села Соколка.",
+      "en": "View of the main street of Sokolka village.",
+      "zh": "索科尔卡村主街道的景色。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/001/thumbnail.webp",
+      "medium": "/images/photos/001/medium.webp",
+      "large": "/images/photos/001/large.webp",
+      "original": "/images/photos/001/original.jpg"
+    },
+    "author": "Иван Петров",
+    "device": "Canon EOS 80D",
+    "dateAdded": "2026-08-01",
+    "dateTaken": "2025-07-12"
+  },
+  {
+    "id": "002",
+    "title": {
+      "ru": "Церковь села",
+      "en": "Village Church",
+      "zh": "村庄教堂"
+    },
+    "alt": {
+      "ru": "Церковь на окраине села Соколка",
+      "en": "Church on the outskirts of Sokolka village",
+      "zh": "索科尔卡村郊外的教堂"
+    },
+    "description": {
+      "ru": "Старая церковь, расположенная недалеко от центра села.",
+      "en": "An old church located near the center of the village.",
+      "zh": "位于村庄中心附近的一座古老教堂。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/002/thumbnail.webp",
+      "medium": "/images/photos/002/medium.webp",
+      "large": "/images/photos/002/large.webp",
+      "original": "/images/photos/002/original.jpg"
+    },
+    "author": "Анна Смирнова",
+    "device": "Sony Alpha 7 III",
+    "dateAdded": "2026-08-02",
+    "dateTaken": "2024-09-18"
+  },
+  {
+    "id": "003",
+    "title": {
+      "ru": "Река у села",
+      "en": "River Near the Village",
+      "zh": "村庄附近的河流"
+    },
+    "alt": {
+      "ru": "Река рядом с селом Соколка",
+      "en": "River near Sokolka village",
+      "zh": "索科尔卡村附近的河流"
+    },
+    "description": {
+      "ru": "Река, протекающая недалеко от села.",
+      "en": "A river flowing near the village.",
+      "zh": "流经村庄附近的一条河流。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/003/thumbnail.webp",
+      "medium": "/images/photos/003/medium.webp",
+      "large": "/images/photos/003/large.webp",
+      "original": "/images/photos/003/original.jpg"
+    },
+    "author": null,
+    "device": null,
+    "dateAdded": "2026-08-03",
+    "dateTaken": null
+  },
+  {
+    "id": "004",
+    "title": {
+      "ru": "Сельский пейзаж",
+      "en": "Village Landscape",
+      "zh": "乡村景色"
+    },
+    "alt": {
+      "ru": "Пейзаж с полями возле села",
+      "en": "Landscape with fields near the village",
+      "zh": "村庄附近的田野景色"
+    },
+    "description": {
+      "ru": "Поля и леса, окружающие село Соколка.",
+      "en": "Fields and forests surrounding Sokolka village.",
+      "zh": "环绕索科尔卡村的田野和森林。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/004/thumbnail.webp",
+      "medium": "/images/photos/004/medium.webp",
+      "large": "/images/photos/004/large.webp",
+      "original": "/images/photos/004/original.jpg"
+    },
+    "author": "Сергей Волков",
+    "device": "Fujifilm X-T5",
+    "dateAdded": "2026-08-04",
+    "dateTaken": "2026-05-21"
+  },
+  {
+    "id": "005",
+    "title": {
+      "ru": "Старый дом",
+      "en": "Old House",
+      "zh": "老房子"
+    },
+    "alt": {
+      "ru": "Старый деревянный дом в селе",
+      "en": "Old wooden house in the village",
+      "zh": "村庄里的一座老木屋"
+    },
+    "description": {
+      "ru": "Сохранившийся деревянный дом с традиционной архитектурой.",
+      "en": "A preserved wooden house with traditional architecture.",
+      "zh": "一座保存完好的传统建筑风格木屋。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/005/thumbnail.webp",
+      "medium": "/images/photos/005/medium.webp",
+      "large": "/images/photos/005/large.webp",
+      "original": "/images/photos/005/original.jpg"
+    },
+    "author": "Мария Иванова",
+    "device": "Nikon D750",
+    "dateAdded": "2026-08-05",
+    "dateTaken": "2023-08-14"
+  },
+  {
+    "id": "006",
+    "title": {
+      "ru": "Сельская школа",
+      "en": "Village School",
+      "zh": "乡村学校"
+    },
+    "alt": {
+      "ru": "Здание сельской школы",
+      "en": "Village school building",
+      "zh": "乡村学校建筑"
+    },
+    "description": {
+      "ru": "Здание школы, в которой учились жители нескольких поколений.",
+      "en": "The school building where several generations of villagers studied.",
+      "zh": "几代村民曾经学习过的学校建筑。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/006/thumbnail.webp",
+      "medium": "/images/photos/006/medium.webp",
+      "large": "/images/photos/006/large.webp",
+      "original": "/images/photos/006/original.jpg"
+    },
+    "author": null,
+    "device": "iPhone 15 Pro",
+    "dateAdded": "2026-08-06",
+    "dateTaken": "2026-06-02"
+  },
+  {
+    "id": "007",
+    "title": {
+      "ru": "Закат над селом",
+      "en": "Sunset Over the Village",
+      "zh": "村庄日落"
+    },
+    "alt": {
+      "ru": "Закат над домами села",
+      "en": "Sunset over the village houses",
+      "zh": "村庄房屋上空的日落"
+    },
+    "description": {
+      "ru": "Закат над селом в конце летнего дня.",
+      "en": "Sunset over the village at the end of a summer day.",
+      "zh": "夏日傍晚村庄上空的日落。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/007/thumbnail.webp",
+      "medium": "/images/photos/007/medium.webp",
+      "large": "/images/photos/007/large.webp",
+      "original": "/images/photos/007/original.jpg"
+    },
+    "author": "Алексей Кузнецов",
+    "device": "Sony Alpha 7 IV",
+    "dateAdded": "2026-08-07",
+    "dateTaken": "2026-07-30"
+  },
+  {
+    "id": "008",
+    "title": {
+      "ru": "Зимнее село",
+      "en": "Winter Village",
+      "zh": "冬日村庄"
+    },
+    "alt": {
+      "ru": "Село Соколка зимой",
+      "en": "Sokolka village in winter",
+      "zh": "冬季的索科尔卡村"
+    },
+    "description": {
+      "ru": "Заснеженная улица села зимой.",
+      "en": "A snow-covered village street in winter.",
+      "zh": "冬季被积雪覆盖的村庄街道。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/008/thumbnail.webp",
+      "medium": "/images/photos/008/medium.webp",
+      "large": "/images/photos/008/large.webp",
+      "original": "/images/photos/008/original.jpg"
+    },
+    "author": "Ольга Морозова",
+    "device": null,
+    "dateAdded": "2026-08-08",
+    "dateTaken": "2022-01-15"
+  },
+  {
+    "id": "009",
+    "title": {
+      "ru": "Сельская дорога",
+      "en": "Village Road",
+      "zh": "乡村道路"
+    },
+    "alt": {
+      "ru": "Дорога, ведущая к селу",
+      "en": "Road leading to the village",
+      "zh": "通往村庄的道路"
+    },
+    "description": {
+      "ru": "Дорога, ведущая от соседнего населённого пункта к селу.",
+      "en": "A road leading from a nearby settlement to the village.",
+      "zh": "从附近居民点通往村庄的一条道路。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/009/thumbnail.webp",
+      "medium": "/images/photos/009/medium.webp",
+      "large": "/images/photos/009/large.webp",
+      "original": "/images/photos/009/original.jpg"
+    },
+    "author": "Дмитрий Орлов",
+    "device": "Canon EOS R6",
+    "dateAdded": "2026-08-09",
+    "dateTaken": "2025-04-26"
+  },
+  {
+    "id": "010",
+    "title": {
+      "ru": "Осень в селе",
+      "en": "Autumn in the Village",
+      "zh": "村庄的秋天"
+    },
+    "alt": {
+      "ru": "Осенний пейзаж села",
+      "en": "Autumn landscape of the village",
+      "zh": "村庄秋季景色"
+    },
+    "description": {
+      "ru": "Осенний вид на деревья и дома села.",
+      "en": "An autumn view of the village trees and houses.",
+      "zh": "秋季村庄树木和房屋的景色。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/010/thumbnail.webp",
+      "medium": "/images/photos/010/medium.webp",
+      "large": "/images/photos/010/large.webp",
+      "original": "/images/photos/010/original.jpg"
+    },
+    "author": null,
+    "device": "Google Pixel 9",
+    "dateAdded": "2026-08-10",
+    "dateTaken": "2024-10-03"
+  },
+  {
+    "id": "011",
+    "title": {
+      "ru": "Центр села",
+      "en": "Village Center",
+      "zh": "村庄中心"
+    },
+    "alt": {
+      "ru": "Центральная часть села Соколка",
+      "en": "Central part of Sokolka village",
+      "zh": "索科尔卡村中心区域"
+    },
+    "description": {
+      "ru": "Центральная площадь и прилегающие здания.",
+      "en": "The central square and nearby buildings.",
+      "zh": "中央广场及其周围的建筑。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/011/thumbnail.webp",
+      "medium": "/images/photos/011/medium.webp",
+      "large": "/images/photos/011/large.webp",
+      "original": "/images/photos/011/original.jpg"
+    },
+    "author": "Иван Петров",
+    "device": "Canon EOS 80D",
+    "dateAdded": "2026-08-11",
+    "dateTaken": "2025-06-11"
+  },
+  {
+    "id": "012",
+    "title": {
+      "ru": "Сельский пруд",
+      "en": "Village Pond",
+      "zh": "乡村池塘"
+    },
+    "alt": {
+      "ru": "Пруд возле домов села",
+      "en": "Pond near the village houses",
+      "zh": "村庄房屋附近的池塘"
+    },
+    "description": {
+      "ru": "Небольшой пруд, расположенный рядом с жилыми домами.",
+      "en": "A small pond located near residential houses.",
+      "zh": "位于住宅附近的一座小池塘。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/012/thumbnail.webp",
+      "medium": "/images/photos/012/medium.webp",
+      "large": "/images/photos/012/large.webp",
+      "original": "/images/photos/012/original.jpg"
+    },
+    "author": "Анна Смирнова",
+    "device": null,
+    "dateAdded": "2026-08-12",
+    "dateTaken": "2024-06-19"
+  },
+  {
+    "id": "013",
+    "title": {
+      "ru": "Весенний пейзаж",
+      "en": "Spring Landscape",
+      "zh": "春日景色"
+    },
+    "alt": {
+      "ru": "Весенний пейзаж вокруг села",
+      "en": "Spring landscape around the village",
+      "zh": "村庄周围的春季景色"
+    },
+    "description": {
+      "ru": "Первые зелёные поля и деревья весной.",
+      "en": "The first green fields and trees in spring.",
+      "zh": "春天初绿的田野和树木。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/013/thumbnail.webp",
+      "medium": "/images/photos/013/medium.webp",
+      "large": "/images/photos/013/large.webp",
+      "original": "/images/photos/013/original.jpg"
+    },
+    "author": "Сергей Волков",
+    "device": "Fujifilm X-T5",
+    "dateAdded": "2026-08-13",
+    "dateTaken": "2026-04-28"
+  },
+  {
+    "id": "014",
+    "title": {
+      "ru": "Старый колодец",
+      "en": "Old Well",
+      "zh": "老井"
+    },
+    "alt": {
+      "ru": "Старый колодец во дворе сельского дома",
+      "en": "Old well in the yard of a village house",
+      "zh": "乡村房屋院子里的老井"
+    },
+    "description": {
+      "ru": "Старый колодец, сохранившийся во дворе одного из домов.",
+      "en": "An old well preserved in the yard of one of the houses.",
+      "zh": "一座保存于房屋院子里的老井。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/014/thumbnail.webp",
+      "medium": "/images/photos/014/medium.webp",
+      "large": "/images/photos/014/large.webp",
+      "original": "/images/photos/014/original.jpg"
+    },
+    "author": null,
+    "device": null,
+    "dateAdded": "2026-08-14",
+    "dateTaken": null
+  },
+  {
+    "id": "015",
+    "title": {
+      "ru": "Летнее поле",
+      "en": "Summer Field",
+      "zh": "夏日田野"
+    },
+    "alt": {
+      "ru": "Поле возле села в летний день",
+      "en": "Field near the village on a summer day",
+      "zh": "夏日村庄附近的田野"
+    },
+    "description": {
+      "ru": "Зелёное поле возле села в разгар лета.",
+      "en": "A green field near the village in midsummer.",
+      "zh": "盛夏时节村庄附近的绿色田野。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/015/thumbnail.webp",
+      "medium": "/images/photos/015/medium.webp",
+      "large": "/images/photos/015/large.webp",
+      "original": "/images/photos/015/original.jpg"
+    },
+    "author": "Мария Иванова",
+    "device": "Nikon D750",
+    "dateAdded": "2026-08-15",
+    "dateTaken": "2025-07-21"
+  },
+  {
+    "id": "016",
+    "title": {
+      "ru": "Туманное утро",
+      "en": "Foggy Morning",
+      "zh": "雾中清晨"
+    },
+    "alt": {
+      "ru": "Туман над селом ранним утром",
+      "en": "Fog over the village early in the morning",
+      "zh": "清晨笼罩村庄的雾气"
+    },
+    "description": {
+      "ru": "Утренний туман над домами и полями.",
+      "en": "Morning fog over the houses and fields.",
+      "zh": "笼罩房屋和田野的晨雾。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/016/thumbnail.webp",
+      "medium": "/images/photos/016/medium.webp",
+      "large": "/images/photos/016/large.webp",
+      "original": "/images/photos/016/original.jpg"
+    },
+    "author": "Алексей Кузнецов",
+    "device": "Sony Alpha 7 IV",
+    "dateAdded": "2026-08-16",
+    "dateTaken": "2025-09-07"
+  },
+  {
+    "id": "017",
+    "title": {
+      "ru": "Деревья у дороги",
+      "en": "Trees by the Road",
+      "zh": "路边的树木"
+    },
+    "alt": {
+      "ru": "Деревья вдоль сельской дороги",
+      "en": "Trees along the village road",
+      "zh": "乡村道路两旁的树木"
+    },
+    "description": {
+      "ru": "Ряд старых деревьев вдоль дороги.",
+      "en": "A row of old trees along the road.",
+      "zh": "道路两旁的一排老树。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/017/thumbnail.webp",
+      "medium": "/images/photos/017/medium.webp",
+      "large": "/images/photos/017/large.webp",
+      "original": "/images/photos/017/original.jpg"
+    },
+    "author": "Дмитрий Орлов",
+    "device": null,
+    "dateAdded": "2026-08-17",
+    "dateTaken": "2023-05-16"
+  },
+  {
+    "id": "018",
+    "title": {
+      "ru": "Село после дождя",
+      "en": "Village After Rain",
+      "zh": "雨后的村庄"
+    },
+    "alt": {
+      "ru": "Улица села после летнего дождя",
+      "en": "Village street after summer rain",
+      "zh": "夏雨后的村庄街道"
+    },
+    "description": {
+      "ru": "Мокрая сельская улица после сильного летнего дождя.",
+      "en": "A wet village street after a heavy summer rain.",
+      "zh": "夏季大雨后的湿润村庄街道。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/018/thumbnail.webp",
+      "medium": "/images/photos/018/medium.webp",
+      "large": "/images/photos/018/large.webp",
+      "original": "/images/photos/018/original.jpg"
+    },
+    "author": null,
+    "device": "iPhone 14 Pro",
+    "dateAdded": "2026-08-18",
+    "dateTaken": "2025-08-02"
+  },
+  {
+    "id": "019",
+    "title": {
+      "ru": "Ночной вид",
+      "en": "Night View",
+      "zh": "夜景"
+    },
+    "alt": {
+      "ru": "Село вечером с огнями домов",
+      "en": "Village in the evening with house lights",
+      "zh": "夜晚亮着房屋灯光的村庄"
+    },
+    "description": {
+      "ru": "Вечерний вид на село после наступления темноты.",
+      "en": "An evening view of the village after dark.",
+      "zh": "入夜后村庄的夜景。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/019/thumbnail.webp",
+      "medium": "/images/photos/019/medium.webp",
+      "large": "/images/photos/019/large.webp",
+      "original": "/images/photos/019/original.jpg"
+    },
+    "author": "Ольга Морозова",
+    "device": "Sony Alpha 7 III",
+    "dateAdded": "2026-08-18",
+    "dateTaken": "2024-11-12"
+  },
+  {
+    "id": "020",
+    "title": {
+      "ru": "Панорама села",
+      "en": "Village Panorama",
+      "zh": "村庄全景"
+    },
+    "alt": {
+      "ru": "Панорамный вид на село Соколка",
+      "en": "Panoramic view of Sokolka village",
+      "zh": "索科尔卡村的全景"
+    },
+    "description": {
+      "ru": "Панорамный вид на село и окружающую его природу.",
+      "en": "A panoramic view of the village and surrounding nature.",
+      "zh": "村庄及周围自然环境的全景。"
+    },
+    "sources": {
+      "thumbnail": "/images/photos/020/thumbnail.webp",
+      "medium": "/images/photos/020/medium.webp",
+      "large": "/images/photos/020/large.webp",
+      "original": "/images/photos/020/original.jpg"
+    },
+    "author": "Иван Петров",
+    "device": "DJI Mavic 3",
+    "dateAdded": "2026-08-18",
+    "dateTaken": "2025-08-25"
+  }
+]

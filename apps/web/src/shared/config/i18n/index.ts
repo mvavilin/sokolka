@@ -19,3 +19,5 @@ i18n.use(initReactI18next).init({
 });
 
 export { default } from 'i18next';
+
+export type { Language, LocalizedText } from '@shared/config/i18n/types';
