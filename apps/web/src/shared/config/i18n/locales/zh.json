@@ -35,5 +35,42 @@
         "masonry": "瀑布流"
       }
     }
+  },
+  "logo": {
+    "alt": "索科尔卡",
+    "label": "索科尔卡",
+    "ariaLabel": "索科尔卡 – 返回首页"
+  },
+  "projectLogo": {
+    "label": "我出生的地方",
+    "ariaLabel": "我出生的地方"
+  },
+  "pages": {
+    "home": {
+      "title": "索科尔卡"
+    },
+    "history": {
+      "title": "历史"
+    },
+    "attractions": {
+      "title": "景点"
+    },
+    "gallery": {
+      "title": "照片画廊"
+    },
+    "about": {
+      "title": "关于项目"
+    },
+    "settings": {
+      "title": "设置"
+    },
+    "notFound": {
+      "title": "页面未找到",
+      "description": "请求的页面不存在。"
+    }
+  },
+  "mobileNav": {
+    "openMenu": "打开菜单",
+    "navigation": "导航"
   }
 }

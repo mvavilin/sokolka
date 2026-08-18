@@ -17,10 +17,10 @@
       "zh": "索科尔卡村主街道的景色。"
     },
     "sources": {
-      "thumbnail": "/images/photos/001/thumbnail.webp",
-      "medium": "/images/photos/001/medium.webp",
-      "large": "/images/photos/001/large.webp",
-      "original": "/images/photos/001/original.jpg"
+      "thumbnail": "images/photos/001/thumbnail.webp",
+      "medium": "images/photos/001/medium.webp",
+      "large": "images/photos/001/large.webp",
+      "original": "images/photos/001/original.jpg"
     },
     "author": "Иван Петров",
     "device": "Canon EOS 80D",
@@ -45,10 +45,10 @@
       "zh": "位于村庄中心附近的一座古老教堂。"
     },
     "sources": {
-      "thumbnail": "/images/photos/002/thumbnail.webp",
-      "medium": "/images/photos/002/medium.webp",
-      "large": "/images/photos/002/large.webp",
-      "original": "/images/photos/002/original.jpg"
+      "thumbnail": "images/photos/002/thumbnail.webp",
+      "medium": "images/photos/002/medium.webp",
+      "large": "images/photos/002/large.webp",
+      "original": "images/photos/002/original.jpg"
     },
     "author": "Анна Смирнова",
     "device": "Sony Alpha 7 III",
@@ -73,10 +73,10 @@
       "zh": "流经村庄附近的一条河流。"
     },
     "sources": {
-      "thumbnail": "/images/photos/003/thumbnail.webp",
-      "medium": "/images/photos/003/medium.webp",
-      "large": "/images/photos/003/large.webp",
-      "original": "/images/photos/003/original.jpg"
+      "thumbnail": "images/photos/003/thumbnail.webp",
+      "medium": "images/photos/003/medium.webp",
+      "large": "images/photos/003/large.webp",
+      "original": "images/photos/003/original.jpg"
     },
     "author": null,
     "device": null,
@@ -101,10 +101,10 @@
       "zh": "环绕索科尔卡村的田野和森林。"
     },
     "sources": {
-      "thumbnail": "/images/photos/004/thumbnail.webp",
-      "medium": "/images/photos/004/medium.webp",
-      "large": "/images/photos/004/large.webp",
-      "original": "/images/photos/004/original.jpg"
+      "thumbnail": "images/photos/004/thumbnail.webp",
+      "medium": "images/photos/004/medium.webp",
+      "large": "images/photos/004/large.webp",
+      "original": "images/photos/004/original.jpg"
     },
     "author": "Сергей Волков",
     "device": "Fujifilm X-T5",
@@ -129,10 +129,10 @@
       "zh": "一座保存完好的传统建筑风格木屋。"
     },
     "sources": {
-      "thumbnail": "/images/photos/005/thumbnail.webp",
-      "medium": "/images/photos/005/medium.webp",
-      "large": "/images/photos/005/large.webp",
-      "original": "/images/photos/005/original.jpg"
+      "thumbnail": "images/photos/005/thumbnail.webp",
+      "medium": "images/photos/005/medium.webp",
+      "large": "images/photos/005/large.webp",
+      "original": "images/photos/005/original.jpg"
     },
     "author": "Мария Иванова",
     "device": "Nikon D750",
@@ -157,10 +157,10 @@
       "zh": "几代村民曾经学习过的学校建筑。"
     },
     "sources": {
-      "thumbnail": "/images/photos/006/thumbnail.webp",
-      "medium": "/images/photos/006/medium.webp",
-      "large": "/images/photos/006/large.webp",
-      "original": "/images/photos/006/original.jpg"
+      "thumbnail": "images/photos/006/thumbnail.webp",
+      "medium": "images/photos/006/medium.webp",
+      "large": "images/photos/006/large.webp",
+      "original": "images/photos/006/original.jpg"
     },
     "author": null,
     "device": "iPhone 15 Pro",
@@ -185,10 +185,10 @@
       "zh": "夏日傍晚村庄上空的日落。"
     },
     "sources": {
-      "thumbnail": "/images/photos/007/thumbnail.webp",
-      "medium": "/images/photos/007/medium.webp",
-      "large": "/images/photos/007/large.webp",
-      "original": "/images/photos/007/original.jpg"
+      "thumbnail": "images/photos/007/thumbnail.webp",
+      "medium": "images/photos/007/medium.webp",
+      "large": "images/photos/007/large.webp",
+      "original": "images/photos/007/original.jpg"
     },
     "author": "Алексей Кузнецов",
     "device": "Sony Alpha 7 IV",
@@ -213,10 +213,10 @@
       "zh": "冬季被积雪覆盖的村庄街道。"
     },
     "sources": {
-      "thumbnail": "/images/photos/008/thumbnail.webp",
-      "medium": "/images/photos/008/medium.webp",
-      "large": "/images/photos/008/large.webp",
-      "original": "/images/photos/008/original.jpg"
+      "thumbnail": "images/photos/008/thumbnail.webp",
+      "medium": "images/photos/008/medium.webp",
+      "large": "images/photos/008/large.webp",
+      "original": "images/photos/008/original.jpg"
     },
     "author": "Ольга Морозова",
     "device": null,
@@ -241,10 +241,10 @@
       "zh": "从附近居民点通往村庄的一条道路。"
     },
     "sources": {
-      "thumbnail": "/images/photos/009/thumbnail.webp",
-      "medium": "/images/photos/009/medium.webp",
-      "large": "/images/photos/009/large.webp",
-      "original": "/images/photos/009/original.jpg"
+      "thumbnail": "images/photos/009/thumbnail.webp",
+      "medium": "images/photos/009/medium.webp",
+      "large": "images/photos/009/large.webp",
+      "original": "images/photos/009/original.jpg"
     },
     "author": "Дмитрий Орлов",
     "device": "Canon EOS R6",
@@ -269,10 +269,10 @@
       "zh": "秋季村庄树木和房屋的景色。"
     },
     "sources": {
-      "thumbnail": "/images/photos/010/thumbnail.webp",
-      "medium": "/images/photos/010/medium.webp",
-      "large": "/images/photos/010/large.webp",
-      "original": "/images/photos/010/original.jpg"
+      "thumbnail": "images/photos/010/thumbnail.webp",
+      "medium": "images/photos/010/medium.webp",
+      "large": "images/photos/010/large.webp",
+      "original": "images/photos/010/original.jpg"
     },
     "author": null,
     "device": "Google Pixel 9",
@@ -297,10 +297,10 @@
       "zh": "中央广场及其周围的建筑。"
     },
     "sources": {
-      "thumbnail": "/images/photos/011/thumbnail.webp",
-      "medium": "/images/photos/011/medium.webp",
-      "large": "/images/photos/011/large.webp",
-      "original": "/images/photos/011/original.jpg"
+      "thumbnail": "images/photos/011/thumbnail.webp",
+      "medium": "images/photos/011/medium.webp",
+      "large": "images/photos/011/large.webp",
+      "original": "images/photos/011/original.jpg"
     },
     "author": "Иван Петров",
     "device": "Canon EOS 80D",
@@ -325,10 +325,10 @@
       "zh": "位于住宅附近的一座小池塘。"
     },
     "sources": {
-      "thumbnail": "/images/photos/012/thumbnail.webp",
-      "medium": "/images/photos/012/medium.webp",
-      "large": "/images/photos/012/large.webp",
-      "original": "/images/photos/012/original.jpg"
+      "thumbnail": "images/photos/012/thumbnail.webp",
+      "medium": "images/photos/012/medium.webp",
+      "large": "images/photos/012/large.webp",
+      "original": "images/photos/012/original.jpg"
     },
     "author": "Анна Смирнова",
     "device": null,
@@ -353,10 +353,10 @@
       "zh": "春天初绿的田野和树木。"
     },
     "sources": {
-      "thumbnail": "/images/photos/013/thumbnail.webp",
-      "medium": "/images/photos/013/medium.webp",
-      "large": "/images/photos/013/large.webp",
-      "original": "/images/photos/013/original.jpg"
+      "thumbnail": "images/photos/013/thumbnail.webp",
+      "medium": "images/photos/013/medium.webp",
+      "large": "images/photos/013/large.webp",
+      "original": "images/photos/013/original.jpg"
     },
     "author": "Сергей Волков",
     "device": "Fujifilm X-T5",
@@ -381,10 +381,10 @@
       "zh": "一座保存于房屋院子里的老井。"
     },
     "sources": {
-      "thumbnail": "/images/photos/014/thumbnail.webp",
-      "medium": "/images/photos/014/medium.webp",
-      "large": "/images/photos/014/large.webp",
-      "original": "/images/photos/014/original.jpg"
+      "thumbnail": "images/photos/014/thumbnail.webp",
+      "medium": "images/photos/014/medium.webp",
+      "large": "images/photos/014/large.webp",
+      "original": "images/photos/014/original.jpg"
     },
     "author": null,
     "device": null,
@@ -409,10 +409,10 @@
       "zh": "盛夏时节村庄附近的绿色田野。"
     },
     "sources": {
-      "thumbnail": "/images/photos/015/thumbnail.webp",
-      "medium": "/images/photos/015/medium.webp",
-      "large": "/images/photos/015/large.webp",
-      "original": "/images/photos/015/original.jpg"
+      "thumbnail": "images/photos/015/thumbnail.webp",
+      "medium": "images/photos/015/medium.webp",
+      "large": "images/photos/015/large.webp",
+      "original": "images/photos/015/original.jpg"
     },
     "author": "Мария Иванова",
     "device": "Nikon D750",
@@ -437,10 +437,10 @@
       "zh": "笼罩房屋和田野的晨雾。"
     },
     "sources": {
-      "thumbnail": "/images/photos/016/thumbnail.webp",
-      "medium": "/images/photos/016/medium.webp",
-      "large": "/images/photos/016/large.webp",
-      "original": "/images/photos/016/original.jpg"
+      "thumbnail": "images/photos/016/thumbnail.webp",
+      "medium": "images/photos/016/medium.webp",
+      "large": "images/photos/016/large.webp",
+      "original": "images/photos/016/original.jpg"
     },
     "author": "Алексей Кузнецов",
     "device": "Sony Alpha 7 IV",
@@ -465,10 +465,10 @@
       "zh": "道路两旁的一排老树。"
     },
     "sources": {
-      "thumbnail": "/images/photos/017/thumbnail.webp",
-      "medium": "/images/photos/017/medium.webp",
-      "large": "/images/photos/017/large.webp",
-      "original": "/images/photos/017/original.jpg"
+      "thumbnail": "images/photos/017/thumbnail.webp",
+      "medium": "images/photos/017/medium.webp",
+      "large": "images/photos/017/large.webp",
+      "original": "images/photos/017/original.jpg"
     },
     "author": "Дмитрий Орлов",
     "device": null,
@@ -493,10 +493,10 @@
       "zh": "夏季大雨后的湿润村庄街道。"
     },
     "sources": {
-      "thumbnail": "/images/photos/018/thumbnail.webp",
-      "medium": "/images/photos/018/medium.webp",
-      "large": "/images/photos/018/large.webp",
-      "original": "/images/photos/018/original.jpg"
+      "thumbnail": "images/photos/018/thumbnail.webp",
+      "medium": "images/photos/018/medium.webp",
+      "large": "images/photos/018/large.webp",
+      "original": "images/photos/018/original.jpg"
     },
     "author": null,
     "device": "iPhone 14 Pro",
@@ -521,10 +521,10 @@
       "zh": "入夜后村庄的夜景。"
     },
     "sources": {
-      "thumbnail": "/images/photos/019/thumbnail.webp",
-      "medium": "/images/photos/019/medium.webp",
-      "large": "/images/photos/019/large.webp",
-      "original": "/images/photos/019/original.jpg"
+      "thumbnail": "images/photos/019/thumbnail.webp",
+      "medium": "images/photos/019/medium.webp",
+      "large": "images/photos/019/large.webp",
+      "original": "images/photos/019/original.jpg"
     },
     "author": "Ольга Морозова",
     "device": "Sony Alpha 7 III",
@@ -549,10 +549,10 @@
       "zh": "村庄及周围自然环境的全景。"
     },
     "sources": {
-      "thumbnail": "/images/photos/020/thumbnail.webp",
-      "medium": "/images/photos/020/medium.webp",
-      "large": "/images/photos/020/large.webp",
-      "original": "/images/photos/020/original.jpg"
+      "thumbnail": "images/photos/020/thumbnail.webp",
+      "medium": "images/photos/020/medium.webp",
+      "large": "images/photos/020/large.webp",
+      "original": "images/photos/020/original.jpg"
     },
     "author": "Иван Петров",
     "device": "DJI Mavic 3",

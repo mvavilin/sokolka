@@ -35,5 +35,42 @@
         "masonry": "Masonry"
       }
     }
+  },
+  "logo": {
+    "alt": "Sokolka",
+    "label": "Sokolka",
+    "ariaLabel": "Sokolka – home"
+  },
+  "projectLogo": {
+    "label": "The place where I was born",
+    "ariaLabel": "The place where I was born"
+  },
+  "pages": {
+    "home": {
+      "title": "Sokolka"
+    },
+    "history": {
+      "title": "History"
+    },
+    "attractions": {
+      "title": "Attractions"
+    },
+    "gallery": {
+      "title": "Photo Gallery"
+    },
+    "about": {
+      "title": "About the Project"
+    },
+    "settings": {
+      "title": "Settings"
+    },
+    "notFound": {
+      "title": "Page Not Found",
+      "description": "The requested page does not exist."
+    }
+  },
+  "mobileNav": {
+    "openMenu": "Open menu",
+    "navigation": "Navigation"
   }
 }

@@ -2,10 +2,8 @@
   "app": {
     "title": "Село Соколка"
   },
-
   "settings": {
     "title": "Настройки",
-
     "theme": {
       "label": "Тема",
       "options": {
@@ -13,7 +11,6 @@
         "dark": "Тёмная"
       }
     },
-
     "language": {
       "label": "Язык",
       "options": {
@@ -22,7 +19,6 @@
         "zh": "中文"
       }
     },
-
     "fontSize": {
       "label": "Размер шрифта",
       "options": {
@@ -31,7 +27,6 @@
         "large": "Большой"
       }
     },
-
     "photoView": {
       "label": "Представление фотографий",
       "options": {
@@ -40,5 +35,42 @@
         "masonry": "Плитка"
       }
     }
+  },
+  "logo": {
+    "alt": "Соколка",
+    "label": "Соколка",
+    "ariaLabel": "Соколка – на главную"
+  },
+  "projectLogo": {
+    "label": "Место, где я родился",
+    "ariaLabel": "Место, где я родился"
+  },
+  "pages": {
+    "home": {
+      "title": "Соколка"
+    },
+    "history": {
+      "title": "История"
+    },
+    "attractions": {
+      "title": "Достопримечательности"
+    },
+    "gallery": {
+      "title": "Фотогалерея"
+    },
+    "about": {
+      "title": "О проекте"
+    },
+    "settings": {
+      "title": "Настройки"
+    },
+    "notFound": {
+      "title": "Страница не найдена",
+      "description": "Запрашиваемая страница не существует."
+    }
+  },
+  "mobileNav": {
+    "openMenu": "Открыть меню",
+    "navigation": "Навигация"
   }
 }
