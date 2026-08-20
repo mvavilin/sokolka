@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next';
 import { Container } from '@shared/ui/container';
 import { Header } from '@widgets/header';
 
-export function HistoryPage(): React.JSX.Element {
+export default function HistoryPage(): React.JSX.Element {
   const { t } = useTranslation();
 
   return (

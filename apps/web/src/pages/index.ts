@@ -1,8 +1,15 @@
-export { AboutPage } from '@pages/about/about-page';
-export { AttractionsPage } from '@pages/attractions/attractions-page';
-export { GalleryPage } from '@pages/gallery/gallery-page';
-export { HistoryPage } from '@pages/history/history-page';
-export { HomePage } from '@pages/home/home-page';
-export { NotFoundPage } from '@pages/not-found/not-found-page';
-export { SettingsPage } from '@pages/settings/settings-page';
-export { TestPage } from '@pages/test/test-page';
+export { default as AboutPage } from './about/about-page';
+
+export { default as AttractionsPage } from './attractions/attractions-page';
+
+export { default as GalleryPage } from './gallery/gallery-page';
+
+export { default as HistoryPage } from './history/history-page';
+
+export { default as HomePage } from './home/home-page';
+
+export { default as NotFoundPage } from './not-found/not-found-page';
+
+export { default as SettingsPage } from './settings/settings-page';
+
+export { default as TestPage } from './test/test-page';

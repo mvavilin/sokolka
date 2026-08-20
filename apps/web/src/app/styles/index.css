@@ -5,6 +5,8 @@
 
 @custom-variant dark (&:is(.dark *));
 
+@import 'flag-icons/css/flag-icons.min.css';
+
 @import './tokens.css';
 @import './theme.css';
 @import './typography.css';

@@ -1,20 +1,14 @@
-import type { LucideIcon } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
 
 import { cn } from '@shared/lib/utils';
+import type { NavigationItemProperties } from '@features/navigation';
 
-interface NavItemProperties {
-  translationKey: string;
-  href: string;
-  icon: LucideIcon;
-}
-
-export function NavItem({
+export default function NavigationItem({
   translationKey,
   href,
   icon: Icon,
-}: NavItemProperties): React.JSX.Element {
+}: NavigationItemProperties): React.JSX.Element {
   const { t } = useTranslation();
 
   return (

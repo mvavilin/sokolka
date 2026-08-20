@@ -3,7 +3,7 @@ import { useTranslation } from 'react-i18next';
 import { Container } from '@shared/ui/container';
 import { Header } from '@widgets/header';
 
-export function GalleryPage(): React.JSX.Element {
+export default function GalleryPage(): React.JSX.Element {
   const { t } = useTranslation();
 
   return (

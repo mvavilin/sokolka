@@ -1,15 +1,6 @@
-export { default as SettingsToggleGroup } from '@features/settings/ui/settings-toggle-group';
+export * from '@features/settings/constants/options';
 
-export { default as FontSizeSettings } from '@features/settings/ui/font-size-settings';
-export { default as LanguageSettings } from '@features/settings/ui/language-settings';
-export { default as PhotoViewSettings } from '@features/settings/ui/photo-view-settings';
-export { default as ThemeSettings } from '@features/settings/ui/theme-settings';
+export type { SettingsOption } from '@features/settings/model/types';
 
-export { default as SettingsControls } from '@features/settings/ui/settings-controls';
-
-export {
-  FONT_SIZE_OPTIONS,
-  LANGUAGE_OPTIONS,
-  PHOTO_VIEW_OPTIONS,
-  THEME_OPTIONS,
-} from '@features/settings/model/options';
+export * from '@features/settings/ui/selects';
+export * from '@features/settings/ui/toggle-groups';

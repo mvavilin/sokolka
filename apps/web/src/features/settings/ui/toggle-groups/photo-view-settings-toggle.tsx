@@ -1,10 +1,13 @@
 import { useTranslation } from 'react-i18next';
+
 import { isValueFrom } from '@shared/lib/is-value-from';
 import { PHOTO_VIEWS, useSettingsStore } from '@shared/model/settings';
+
 import { PHOTO_VIEW_OPTIONS, SettingsToggleGroup } from '@features/settings';
 
-const PhotoViewSettings = (): React.JSX.Element => {
+export default function PhotoViewSettingsToggle(): React.JSX.Element {
   const { t } = useTranslation();
+
   const photoView = useSettingsStore((state) => state.photoView);
   const setPhotoView = useSettingsStore((state) => state.setPhotoView);
 
@@ -14,7 +17,7 @@ const PhotoViewSettings = (): React.JSX.Element => {
       value={photoView}
       options={PHOTO_VIEW_OPTIONS.map((option) => ({
         value: option.value,
-        label: t(option.labelKey),
+        label: t(option.label),
       }))}
       onValueChange={(value) => {
         if (isValueFrom(PHOTO_VIEWS, value)) {
@@ -23,6 +26,4 @@ const PhotoViewSettings = (): React.JSX.Element => {
       }}
     />
   );
-};
-
-export default PhotoViewSettings;
+}

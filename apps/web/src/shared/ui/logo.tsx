@@ -2,7 +2,7 @@ import logo from '@shared/assets/images/logo.png';
 import { useTranslation } from 'react-i18next';
 import { Link } from 'react-router-dom';
 
-export function Logo() {
+export default function Logo(): React.JSX.Element {
   const { t } = useTranslation();
 
   return (

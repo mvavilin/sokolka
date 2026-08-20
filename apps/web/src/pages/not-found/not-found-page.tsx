@@ -2,7 +2,7 @@ import { Container } from '@shared/ui/container';
 import { Header } from '@widgets/header';
 import { useTranslation } from 'react-i18next';
 
-export function NotFoundPage(): React.JSX.Element {
+export default function NotFoundPage(): React.JSX.Element {
   const { t } = useTranslation();
 
   return (

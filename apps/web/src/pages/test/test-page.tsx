@@ -1,6 +1,6 @@
 import { useTranslation } from 'react-i18next';
 
-export function TestPage(): React.JSX.Element {
+export default function TestPage(): React.JSX.Element {
   const { t } = useTranslation();
 
   return (

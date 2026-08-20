@@ -1,13 +1,14 @@
 import type { LucideIcon } from 'lucide-react';
+
 import { BookMarked, Images, Info, Landmark, Settings } from 'lucide-react';
 
-interface NavigationItem {
+export interface NavigationItem {
   href: string;
   translationKey: string;
   icon: LucideIcon;
 }
 
-export const navigation: readonly NavigationItem[] = [
+export const desktopNavigation: readonly NavigationItem[] = [
   {
     href: '/history',
     translationKey: 'pages.history.title',
@@ -28,6 +29,10 @@ export const navigation: readonly NavigationItem[] = [
     translationKey: 'pages.about.title',
     icon: Info,
   },
+];
+
+export const mobileNavigation: readonly NavigationItem[] = [
+  ...desktopNavigation,
   {
     href: '/settings',
     translationKey: 'pages.settings.title',

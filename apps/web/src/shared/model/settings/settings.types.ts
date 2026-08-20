@@ -5,10 +5,12 @@ import type {
   PHOTO_VIEWS,
 } from '@shared/model/settings/settings.constants';
 
-export type Theme = (typeof THEMES)[keyof typeof THEMES];
-export type Language = (typeof LANGUAGES)[keyof typeof LANGUAGES];
-export type FontSize = (typeof FONT_SIZES)[keyof typeof FONT_SIZES];
-export type PhotoView = (typeof PHOTO_VIEWS)[keyof typeof PHOTO_VIEWS];
+type ValueOf<T> = T[keyof T];
+
+export type Theme = ValueOf<typeof THEMES>;
+export type Language = ValueOf<typeof LANGUAGES>;
+export type FontSize = ValueOf<typeof FONT_SIZES>;
+export type PhotoView = ValueOf<typeof PHOTO_VIEWS>;
 
 export interface SettingsState {
   theme: Theme;

@@ -1,10 +1,13 @@
 import { useTranslation } from 'react-i18next';
+
 import { isValueFrom } from '@shared/lib/is-value-from';
 import { THEMES, useSettingsStore } from '@shared/model/settings';
+
 import { THEME_OPTIONS, SettingsToggleGroup } from '@features/settings';
 
-const ThemeSettings = (): React.JSX.Element => {
+export default function ThemeSettingsToggle(): React.JSX.Element {
   const { t } = useTranslation();
+
   const theme = useSettingsStore((state) => state.theme);
   const setTheme = useSettingsStore((state) => state.setTheme);
 
@@ -14,13 +17,13 @@ const ThemeSettings = (): React.JSX.Element => {
       value={theme}
       options={THEME_OPTIONS.map((option) => ({
         value: option.value,
-        label: t(option.labelKey),
+        label: t(option.label),
       }))}
       onValueChange={(value) => {
-        if (isValueFrom(THEMES, value)) setTheme(value);
+        if (isValueFrom(THEMES, value)) {
+          setTheme(value);
+        }
       }}
     />
   );
-};
-
-export default ThemeSettings;
+}
