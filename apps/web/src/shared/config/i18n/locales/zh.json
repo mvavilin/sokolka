@@ -42,8 +42,9 @@
     "ariaLabel": "索科尔卡 – 返回首页"
   },
   "projectLogo": {
-    "label": "我出生的地方",
-    "ariaLabel": "我出生的地方"
+    "project": "项目",
+    "label": "故乡",
+    "ariaLabel": "「故乡」项目"
   },
   "pages": {
     "home": {
@@ -72,5 +73,10 @@
   "mobileNav": {
     "openMenu": "打开菜单",
     "navigation": "导航"
+  },
+  "footer": {
+    "author": "创意、设计与开发",
+    "authorName": "米哈伊尔·瓦维林",
+    "copyright": "索科尔卡"
   }
 }

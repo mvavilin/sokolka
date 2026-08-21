@@ -42,8 +42,9 @@
     "ariaLabel": "Sokolka – home"
   },
   "projectLogo": {
-    "label": "The place where I was born",
-    "ariaLabel": "The place where I was born"
+    "project": "Project",
+    "label": "Native Place",
+    "ariaLabel": "Native Place Project"
   },
   "pages": {
     "home": {
@@ -72,5 +73,10 @@
   "mobileNav": {
     "openMenu": "Open menu",
     "navigation": "Navigation"
+  },
+  "footer": {
+    "author": "Idea, design and development",
+    "authorName": "Mikhail Vavilin",
+    "copyright": "Sokolka"
   }
 }

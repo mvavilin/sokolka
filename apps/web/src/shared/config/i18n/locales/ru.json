@@ -42,8 +42,9 @@
     "ariaLabel": "Соколка – на главную"
   },
   "projectLogo": {
-    "label": "Место, где я родился",
-    "ariaLabel": "Место, где я родился"
+    "project": "Проект",
+    "label": "Родное место",
+    "ariaLabel": "Проект «Родное место»"
   },
   "pages": {
     "home": {
@@ -72,5 +73,10 @@
   "mobileNav": {
     "openMenu": "Открыть меню",
     "navigation": "Навигация"
+  },
+  "footer": {
+    "author": "Автор идеи, дизайн и разработка",
+    "authorName": "Михаил Вавилин",
+    "copyright": "Соколка"
   }
 }
