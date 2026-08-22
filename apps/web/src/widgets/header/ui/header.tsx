@@ -6,8 +6,8 @@ import { HeaderActions } from '@widgets/header';
 
 export default function Header(): React.JSX.Element {
   return (
-    <header className="border-b">
-      <Container className="flex items-center justify-between py-4">
+    <header className="h-16 shrink-0 border-b">
+      <Container className="flex h-full items-center justify-between">
         <Logo />
 
         <Navigation />

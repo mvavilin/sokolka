@@ -78,5 +78,13 @@
     "author": "Idea, design and development",
     "authorName": "Mikhail Vavilin",
     "copyright": "Sokolka"
+  },
+  "previewSlider": {
+    "title": "Sokolka Village",
+    "logoAlt": "Coat of arms of Sokolka Village",
+    "photoInfo": "Photo information",
+    "author": "Author",
+    "device": "Device",
+    "dateTaken": "Date taken"
   }
 }

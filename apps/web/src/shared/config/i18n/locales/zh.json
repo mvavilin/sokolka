@@ -78,5 +78,13 @@
     "author": "创意、设计与开发",
     "authorName": "米哈伊尔·瓦维林",
     "copyright": "索科尔卡"
+  },
+  "previewSlider": {
+    "title": "索科尔卡村",
+    "logoAlt": "索科尔卡村徽章",
+    "photoInfo": "照片信息",
+    "author": "作者",
+    "device": "设备",
+    "dateTaken": "拍摄日期"
   }
 }

@@ -1,6 +1,8 @@
-export { default as photos } from '@entities/photo/data/photos.json';
+export { default as photoApi } from './api/photo.api';
+export { default as photoService } from './api/photo.service';
+export type { GetPhotosParameters, PhotosResponse } from './api/photo.types';
 
-export { default as photoApi } from '@entities/photo/api/photo.api';
-export type { GetPhotosParameters, PhotosResponse } from '@entities/photo/api/photo.types';
+export { default as PHOTO_SETS } from './data/photo-sets';
+export { default as photos } from './data/photos.json';
 
-export type { default as Photo } from '@entities/photo/model/photo.types';
+export type { default as Photo } from './model/photo.types';

@@ -9,9 +9,9 @@ type PhotoSources = {
 
 export default interface Photo {
   id: string;
-  title: LocalizedText;
-  alt: LocalizedText;
-  description: LocalizedText;
+  title: LocalizedText | null;
+  alt: LocalizedText | null;
+  description: LocalizedText | null;
   sources: PhotoSources;
   author: string | null;
   device: string | null;
