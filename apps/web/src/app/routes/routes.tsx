@@ -2,7 +2,7 @@ import { Navigate, Route, Routes } from 'react-router-dom';
 
 import {
   AboutPage,
-  AttractionsPage,
+  // AttractionsPage,
   GalleryPage,
   HistoryPage,
   HomePage,
@@ -13,8 +13,10 @@ import {
 const AppRoutes = (): React.JSX.Element => (
   <Routes>
     <Route path="/" element={<HomePage />} />
-    <Route path="/history" element={<HistoryPage />} />
-    <Route path="/attractions" element={<AttractionsPage />} />
+    {/* <Route path="/history-and-culture" element={<HistoryAndCulturePage />} /> */}
+    <Route path="/history-and-culture" element={<HistoryPage />} />
+    {/* <Route path="/history" element={<HistoryPage />} />
+    <Route path="/attractions" element={<AttractionsPage />} /> */}
     <Route path="/gallery" element={<GalleryPage />} />
     <Route path="/about" element={<AboutPage />} />
     <Route path="/settings" element={<SettingsPage />} />

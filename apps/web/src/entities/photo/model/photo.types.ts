@@ -2,9 +2,9 @@ import type { LocalizedText } from '@shared/config/i18n';
 
 type PhotoSources = {
   thumbnail: string;
-  medium: string;
-  large: string;
-  original: string;
+  medium: string | null;
+  large: string | null;
+  original: string | null;
 };
 
 export default interface Photo {

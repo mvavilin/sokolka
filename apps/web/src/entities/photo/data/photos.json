@@ -1,562 +1,1474 @@
 [
   {
-    "id": "001",
+    "id": "0002",
     "title": {
-      "ru": "Главная улица села",
-      "en": "Main Street of the Village",
-      "zh": "村庄主街"
+      "ru": "Дорога в сосновом лесу",
+      "en": "A road in the pine forest",
+      "zh": "松林中的一條路"
     },
     "alt": {
-      "ru": "Главная улица села Соколка",
-      "en": "Main street of Sokolka village",
-      "zh": "索科尔卡村的主街道"
+      "ru": "Бордовый велосипед припаркован у ствола высокой сосны в густом сосновом лесу рядом с грунтовой дорогой",
+      "en": "A maroon bicycle is parked against the trunk of a tall pine tree in a dense pine forest, next to a dirt road.",
+      "zh": "在茂密的松林中，一輛褐紅色的自行車停靠在一條土路旁一棵高大松樹的樹幹上。"
     },
-    "description": {
-      "ru": "Вид на главную улицу села Соколка.",
-      "en": "View of the main street of Sokolka village.",
-      "zh": "索科尔卡村主街道的景色。"
-    },
+    "description": null,
     "sources": {
-      "thumbnail": "images/photos/001/thumbnail.webp",
-      "medium": "images/photos/001/medium.webp",
-      "large": "images/photos/001/large.webp",
-      "original": "images/photos/001/original.jpg"
-    },
-    "author": "Иван Петров",
-    "device": "Canon EOS 80D",
-    "dateAdded": "2026-08-01",
-    "dateTaken": "2025-07-12"
-  },
-  {
-    "id": "002",
-    "title": {
-      "ru": "Церковь села",
-      "en": "Village Church",
-      "zh": "村庄教堂"
-    },
-    "alt": {
-      "ru": "Церковь на окраине села Соколка",
-      "en": "Church on the outskirts of Sokolka village",
-      "zh": "索科尔卡村郊外的教堂"
-    },
-    "description": {
-      "ru": "Старая церковь, расположенная недалеко от центра села.",
-      "en": "An old church located near the center of the village.",
-      "zh": "位于村庄中心附近的一座古老教堂。"
-    },
-    "sources": {
-      "thumbnail": "images/photos/002/thumbnail.webp",
-      "medium": "images/photos/002/medium.webp",
-      "large": "images/photos/002/large.webp",
-      "original": "images/photos/002/original.jpg"
-    },
-    "author": "Анна Смирнова",
-    "device": "Sony Alpha 7 III",
-    "dateAdded": "2026-08-02",
-    "dateTaken": "2024-09-18"
-  },
-  {
-    "id": "003",
-    "title": {
-      "ru": "Река у села",
-      "en": "River Near the Village",
-      "zh": "村庄附近的河流"
-    },
-    "alt": {
-      "ru": "Река рядом с селом Соколка",
-      "en": "River near Sokolka village",
-      "zh": "索科尔卡村附近的河流"
-    },
-    "description": {
-      "ru": "Река, протекающая недалеко от села.",
-      "en": "A river flowing near the village.",
-      "zh": "流经村庄附近的一条河流。"
-    },
-    "sources": {
-      "thumbnail": "images/photos/003/thumbnail.webp",
-      "medium": "images/photos/003/medium.webp",
-      "large": "images/photos/003/large.webp",
-      "original": "images/photos/003/original.jpg"
+      "thumbnail": "images/photos/0002/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
     },
     "author": null,
-    "device": null,
-    "dateAdded": "2026-08-03",
-    "dateTaken": null
+    "device": "Xiaomi Redmi Note 12",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "21.07.2024"
   },
   {
-    "id": "004",
+    "id": "0003",
     "title": {
-      "ru": "Сельский пейзаж",
-      "en": "Village Landscape",
-      "zh": "乡村景色"
+      "ru": "Изобретатель русского света",
+      "en": "Inventor of Russian electric lighting",
+      "zh": "俄罗斯电灯的发明者"
     },
     "alt": {
-      "ru": "Пейзаж с полями возле села",
-      "en": "Landscape with fields near the village",
-      "zh": "村庄附近的田野景色"
+      "ru": "Бронзовый бюст бородатого мужчины в пиджаке и бабочке установлен на зелёном постаменте в тенистой берёзовой аллее, по бокам от него стоят два белых фонаря",
+      "en": "A bronze bust of a bearded man in a jacket and bow tie mounted on a green pedestal in a shady birch alley, flanked by two white lanterns",
+      "zh": "一座穿西装打领结的胡须男子青铜半身像立于绿色底座上，位于阴凉的白桦林荫道中，两侧各有一盏白色路灯"
     },
     "description": {
-      "ru": "Поля и леса, окружающие село Соколка.",
-      "en": "Fields and forests surrounding Sokolka village.",
-      "zh": "环绕索科尔卡村的田野和森林。"
+      "ru": "Павел Яблочков — русский изобретатель «свечи Яблочкова» (дуговой лампы), впервые применившей электричество для уличного освещения. Его систему назвали «русский свет» — это был мировой прорыв в электротехнике.",
+      "en": "Pavel Yablochkov — a Russian inventor of the \"Yablochkov candle\" (an arc lamp), which was the first to use electricity for street lighting. His system was called \"Russian light\" — it was a global breakthrough in electrical engineering.",
+      "zh": "帕维尔·雅布洛奇科夫——俄罗斯发明家，发明了“雅布洛奇科夫蜡烛”（弧光灯），首次将电力用于街道照明。他的系统被称为“俄罗斯之光”——这是电工技术领域的世界性突破。"
     },
     "sources": {
-      "thumbnail": "images/photos/004/thumbnail.webp",
-      "medium": "images/photos/004/medium.webp",
-      "large": "images/photos/004/large.webp",
-      "original": "images/photos/004/original.jpg"
+      "thumbnail": "images/photos/0003/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
     },
-    "author": "Сергей Волков",
-    "device": "Fujifilm X-T5",
-    "dateAdded": "2026-08-04",
-    "dateTaken": "2026-05-21"
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "26.07.2026"
   },
   {
-    "id": "005",
+    "id": "0004",
     "title": {
-      "ru": "Старый дом",
-      "en": "Old House",
-      "zh": "老房子"
+      "ru": "Изобретатель русского света",
+      "en": "Inventor of Russian electric lighting",
+      "zh": "俄罗斯电灯的发明者"
     },
     "alt": {
-      "ru": "Старый деревянный дом в селе",
-      "en": "Old wooden house in the village",
-      "zh": "村庄里的一座老木屋"
+      "ru": "Бронзовый бюст бородатого мужчины в пиджаке и бабочке установлен на зелёном постаменте в тенистой берёзовой аллее, по бокам от него стоят два белых фонаря",
+      "en": "A bronze bust of a bearded man in a jacket and bow tie mounted on a green pedestal in a shady birch alley, flanked by two white lanterns",
+      "zh": "一座穿西装打领结的胡须男子青铜半身像立于绿色底座上，位于阴凉的白桦林荫道中，两侧各有一盏白色路灯"
     },
-    "description": {
-      "ru": "Сохранившийся деревянный дом с традиционной архитектурой.",
-      "en": "A preserved wooden house with traditional architecture.",
-      "zh": "一座保存完好的传统建筑风格木屋。"
-    },
+    "description": null,
     "sources": {
-      "thumbnail": "images/photos/005/thumbnail.webp",
-      "medium": "images/photos/005/medium.webp",
-      "large": "images/photos/005/large.webp",
-      "original": "images/photos/005/original.jpg"
+      "thumbnail": "images/photos/0004/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
     },
-    "author": "Мария Иванова",
-    "device": "Nikon D750",
-    "dateAdded": "2026-08-05",
-    "dateTaken": "2023-08-14"
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "26.07.2026"
   },
   {
-    "id": "006",
+    "id": "0005",
     "title": {
       "ru": "Сельская школа",
-      "en": "Village School",
-      "zh": "乡村学校"
+      "en": "School in a rural area",
+      "zh": "郊区的学校"
     },
     "alt": {
-      "ru": "Здание сельской школы",
-      "en": "Village school building",
-      "zh": "乡村学校建筑"
+      "ru": "Двухэтажная школа из светлого кирпича с белыми окнами и серым козырьком над входом. На переднем плане — жёлтая клумба и зелёная трава, вокруг здания растут деревья, погода пасмурная.",
+      "en": "A two-story school of light brick with white windows and a grey canopy over the entrance. In the foreground — a yellow flowerbed and green grass, trees around the building, overcast weather",
+      "zh": "一座浅砖色两层学校，白色窗户，入口上方有灰色雨棚。前景为黄色花坛和绿草，建筑周围有树木，天气阴天"
     },
     "description": {
-      "ru": "Здание школы, в которой учились жители нескольких поколений.",
-      "en": "The school building where several generations of villagers studied.",
-      "zh": "几代村民曾经学习过的学校建筑。"
+      "ru": "МОУ ООШ с. Соколка — двухэтажная школа 1978 года постройки в 30 км от Сердобска, где учатся дети из сёл Камзолка и Соколка. Рядом — библиотека, стадион «Сокол» и досуговый центр, используемые в учебной работе.",
+      "en": "Sokolka Village Basic School — a two-story school built in 1978, located 30 km from Serdobsk, attended by children from the villages of Kamzolka and Sokolka. Nearby — a library, the Sokol Stadium, and a leisure centre, all used in educational work",
+      "zh": "索科尔卡村基础教育学校——建于1978年的两层教学楼，距谢尔多布斯克30公里，卡姆佐尔卡村和索科尔卡村的孩子们在此就读。附近有图书馆、“索科尔”体育场和休闲中心，均用于教学活动。"
     },
     "sources": {
-      "thumbnail": "images/photos/006/thumbnail.webp",
-      "medium": "images/photos/006/medium.webp",
-      "large": "images/photos/006/large.webp",
-      "original": "images/photos/006/original.jpg"
+      "thumbnail": "images/photos/0000/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
     },
     "author": null,
-    "device": "iPhone 15 Pro",
-    "dateAdded": "2026-08-06",
-    "dateTaken": "2026-06-02"
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "26.07.2026"
   },
   {
-    "id": "007",
+    "id": "0006",
     "title": {
-      "ru": "Закат над селом",
-      "en": "Sunset Over the Village",
-      "zh": "村庄日落"
+      "ru": "Сельская школа",
+      "en": "School in a rural area",
+      "zh": "郊区的学校"
     },
     "alt": {
-      "ru": "Закат над домами села",
-      "en": "Sunset over the village houses",
-      "zh": "村庄房屋上空的日落"
+      "ru": "Двухэтажное здание советской постройки из светлого силикатного кирпича с красными элементами на крыше. Перед входом с широким крыльцом и длинным навесом — кустарники, клумбы, высокие деревья и ель",
+      "en": "A two-story Soviet-era building of light silicate brick with red elements on the roof. In front of the entrance with a wide porch and a long canopy — shrubs, flowerbeds, tall trees, and a spruce",
+      "zh": "一座浅色硅砖两层苏联时期建筑，屋顶有红色元素。入口前有宽门廊和长雨棚，周围有灌木、花坛、高树和云杉"
     },
     "description": {
-      "ru": "Закат над селом в конце летнего дня.",
-      "en": "Sunset over the village at the end of a summer day.",
-      "zh": "夏日傍晚村庄上空的日落。"
+      "ru": "МОУ ООШ с. Соколка — двухэтажная школа 1978 года постройки в 30 км от Сердобска, где учатся дети из сёл Камзолка и Соколка. Рядом — библиотека, стадион «Сокол» и досуговый центр, используемые в учебной работе.",
+      "en": "Sokolka Village Basic School — a two-story school built in 1978, located 30 km from Serdobsk, attended by children from the villages of Kamzolka and Sokolka. Nearby — a library, the Sokol Stadium, and a leisure centre, all used in educational work",
+      "zh": "索科尔卡村基础教育学校——建于1978年的两层教学楼，距谢尔多布斯克30公里，卡姆佐尔卡村和索科尔卡村的孩子们在此就读。附近有图书馆、“索科尔”体育场和休闲中心，均用于教学活动。"
     },
     "sources": {
-      "thumbnail": "images/photos/007/thumbnail.webp",
-      "medium": "images/photos/007/medium.webp",
-      "large": "images/photos/007/large.webp",
-      "original": "images/photos/007/original.jpg"
-    },
-    "author": "Алексей Кузнецов",
-    "device": "Sony Alpha 7 IV",
-    "dateAdded": "2026-08-07",
-    "dateTaken": "2026-07-30"
-  },
-  {
-    "id": "008",
-    "title": {
-      "ru": "Зимнее село",
-      "en": "Winter Village",
-      "zh": "冬日村庄"
-    },
-    "alt": {
-      "ru": "Село Соколка зимой",
-      "en": "Sokolka village in winter",
-      "zh": "冬季的索科尔卡村"
-    },
-    "description": {
-      "ru": "Заснеженная улица села зимой.",
-      "en": "A snow-covered village street in winter.",
-      "zh": "冬季被积雪覆盖的村庄街道。"
-    },
-    "sources": {
-      "thumbnail": "images/photos/008/thumbnail.webp",
-      "medium": "images/photos/008/medium.webp",
-      "large": "images/photos/008/large.webp",
-      "original": "images/photos/008/original.jpg"
-    },
-    "author": "Ольга Морозова",
-    "device": null,
-    "dateAdded": "2026-08-08",
-    "dateTaken": "2022-01-15"
-  },
-  {
-    "id": "009",
-    "title": {
-      "ru": "Сельская дорога",
-      "en": "Village Road",
-      "zh": "乡村道路"
-    },
-    "alt": {
-      "ru": "Дорога, ведущая к селу",
-      "en": "Road leading to the village",
-      "zh": "通往村庄的道路"
-    },
-    "description": {
-      "ru": "Дорога, ведущая от соседнего населённого пункта к селу.",
-      "en": "A road leading from a nearby settlement to the village.",
-      "zh": "从附近居民点通往村庄的一条道路。"
-    },
-    "sources": {
-      "thumbnail": "images/photos/009/thumbnail.webp",
-      "medium": "images/photos/009/medium.webp",
-      "large": "images/photos/009/large.webp",
-      "original": "images/photos/009/original.jpg"
-    },
-    "author": "Дмитрий Орлов",
-    "device": "Canon EOS R6",
-    "dateAdded": "2026-08-09",
-    "dateTaken": "2025-04-26"
-  },
-  {
-    "id": "010",
-    "title": {
-      "ru": "Осень в селе",
-      "en": "Autumn in the Village",
-      "zh": "村庄的秋天"
-    },
-    "alt": {
-      "ru": "Осенний пейзаж села",
-      "en": "Autumn landscape of the village",
-      "zh": "村庄秋季景色"
-    },
-    "description": {
-      "ru": "Осенний вид на деревья и дома села.",
-      "en": "An autumn view of the village trees and houses.",
-      "zh": "秋季村庄树木和房屋的景色。"
-    },
-    "sources": {
-      "thumbnail": "images/photos/010/thumbnail.webp",
-      "medium": "images/photos/010/medium.webp",
-      "large": "images/photos/010/large.webp",
-      "original": "images/photos/010/original.jpg"
+      "thumbnail": "images/photos/0006/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
     },
     "author": null,
-    "device": "Google Pixel 9",
-    "dateAdded": "2026-08-10",
-    "dateTaken": "2024-10-03"
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "26.07.2026"
   },
   {
-    "id": "011",
+    "id": "0007",
     "title": {
-      "ru": "Центр села",
-      "en": "Village Center",
-      "zh": "村庄中心"
+      "ru": "Церковь Троицы Живоначальной",
+      "en": "Church of the Life-Giving Trinity",
+      "zh": "生命赐予的三一教堂"
     },
     "alt": {
-      "ru": "Центральная часть села Соколка",
-      "en": "Central part of Sokolka village",
-      "zh": "索科尔卡村中心区域"
+      "ru": "На пасмурном снимке — разрушенная краснокирпичная церковь с высокой колокольней и крестом, а рядом с ней — аккуратное деревянное здание с зелёной крышей, что создаёт контраст между запустением и ухоженностью. Вокруг — заросшее поле, кусты, деревья и линия электропередач.",
+      "en": "In an overcast photo — a ruined red-brick church with a tall bell tower and a cross, next to it a neat wooden building with a green roof, creating a contrast between decay and neatness. Around — overgrown field, bushes, trees, and power line",
+      "zh": "阴天照片中——一座残破的红砖教堂，带有高钟楼和十字架，旁边是一座整洁的绿色屋顶木建筑，形成荒废与整洁的对比。周围是杂草丛生的田野、灌木、树木和电线杆"
     },
     "description": {
-      "ru": "Центральная площадь и прилегающие здания.",
-      "en": "The central square and nearby buildings.",
-      "zh": "中央广场及其周围的建筑。"
+      "ru": "Каменная Троицкая церковь в Соколке построена в 1792–1794 гг. на средства полковника Названова, имела придел Михаила Архангела, иконостас обветшал.",
+      "en": "The stone Trinity Church in Sokolka was built in 1792–1794 at the expense of Colonel Nazvanov. It had a side chapel of Archangel Michael; the iconostasis has since fallen into disrepair.",
+      "zh": "索科尔卡的石砌圣三一教堂建于1792–1794年，由纳兹瓦诺夫上校出资修建，曾设有天使长米迦勒侧祭坛，圣像屏风现已残旧。"
     },
     "sources": {
-      "thumbnail": "images/photos/011/thumbnail.webp",
-      "medium": "images/photos/011/medium.webp",
-      "large": "images/photos/011/large.webp",
-      "original": "images/photos/011/original.jpg"
+      "thumbnail": "images/photos/0007/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
     },
-    "author": "Иван Петров",
-    "device": "Canon EOS 80D",
-    "dateAdded": "2026-08-11",
-    "dateTaken": "2025-06-11"
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "26.07.2026"
   },
   {
-    "id": "012",
+    "id": "0008",
     "title": {
-      "ru": "Сельский пруд",
-      "en": "Village Pond",
-      "zh": "乡村池塘"
+      "ru": "Крест на пасмурном небе",
+      "en": "Cross in the cloudy sky",
+      "zh": "多云天空中的十字架"
     },
     "alt": {
-      "ru": "Пруд возле домов села",
-      "en": "Pond near the village houses",
-      "zh": "村庄房屋附近的池塘"
+      "ru": "Полуразрушенная кирпичная церковь с облупившейся штукатуркой, арочными проёмами и высоким шпилем с крестом на фоне пасмурного серого неба.",
+      "en": "A semi-ruined brick church with peeling plaster, arched openings, and a tall spire with a cross against an overcast grey sky",
+      "zh": "一座半毁的砖砌教堂，墙面灰泥剥落，有拱形开口，高耸尖顶带十字架，背景为阴沉的灰色天空"
     },
     "description": {
-      "ru": "Небольшой пруд, расположенный рядом с жилыми домами.",
-      "en": "A small pond located near residential houses.",
-      "zh": "位于住宅附近的一座小池塘。"
+      "ru": "Каменная Троицкая церковь в Соколке построена в 1792–1794 гг. на средства полковника Названова, имела придел Михаила Архангела, иконостас обветшал.",
+      "en": "The stone Trinity Church in Sokolka was built in 1792–1794 at the expense of Colonel Nazvanov. It had a side chapel of Archangel Michael; the iconostasis has since fallen into disrepair.",
+      "zh": "索科尔卡的石砌圣三一教堂建于1792–1794年，由纳兹瓦诺夫上校出资修建，曾设有天使长米迦勒侧祭坛，圣像屏风现已残旧。"
     },
     "sources": {
-      "thumbnail": "images/photos/012/thumbnail.webp",
-      "medium": "images/photos/012/medium.webp",
-      "large": "images/photos/012/large.webp",
-      "original": "images/photos/012/original.jpg"
+      "thumbnail": "images/photos/0008/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
     },
-    "author": "Анна Смирнова",
-    "device": null,
-    "dateAdded": "2026-08-12",
-    "dateTaken": "2024-06-19"
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "26.07.2026"
   },
   {
-    "id": "013",
+    "id": "0009",
     "title": {
-      "ru": "Весенний пейзаж",
-      "en": "Spring Landscape",
-      "zh": "春日景色"
+      "ru": "Церковь",
+      "en": "Church",
+      "zh": "教堂"
     },
     "alt": {
-      "ru": "Весенний пейзаж вокруг села",
-      "en": "Spring landscape around the village",
-      "zh": "村庄周围的春季景色"
+      "ru": "полуразрушенная краснокирпичная церковь с заросшей крышей, высокой колокольней и крестом на шпиле. Вокруг — дикая трава, кусты, а вдалеке — столбы ЛЭП и крыши домов;",
+      "en": "A semi-ruined red-brick church with an overgrown roof, a tall bell tower, and a cross on the spire. Around — wild grass, bushes, and in the distance — power line poles and rooftops",
+      "zh": "一座半毁的红砖教堂，屋顶杂草丛生，高钟楼，尖顶上有十字架。周围是野草、灌木，远处有电线杆和房屋屋顶"
     },
     "description": {
-      "ru": "Первые зелёные поля и деревья весной.",
-      "en": "The first green fields and trees in spring.",
-      "zh": "春天初绿的田野和树木。"
+      "ru": "Каменная Троицкая церковь в Соколке построена в 1792–1794 гг. на средства полковника Названова, имела придел Михаила Архангела, иконостас обветшал.",
+      "en": "The stone Trinity Church in Sokolka was built in 1792–1794 at the expense of Colonel Nazvanov. It had a side chapel of Archangel Michael; the iconostasis has since fallen into disrepair.",
+      "zh": "索科尔卡的石砌圣三一教堂建于1792–1794年，由纳兹瓦诺夫上校出资修建，曾设有天使长米迦勒侧祭坛，圣像屏风现已残旧。"
     },
     "sources": {
-      "thumbnail": "images/photos/013/thumbnail.webp",
-      "medium": "images/photos/013/medium.webp",
-      "large": "images/photos/013/large.webp",
-      "original": "images/photos/013/original.jpg"
+      "thumbnail": "images/photos/0009/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
     },
-    "author": "Сергей Волков",
-    "device": "Fujifilm X-T5",
-    "dateAdded": "2026-08-13",
-    "dateTaken": "2026-04-28"
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "2026-07-26 00:00:00"
   },
   {
-    "id": "014",
+    "id": "0010",
     "title": {
-      "ru": "Старый колодец",
-      "en": "Old Well",
-      "zh": "老井"
+      "ru": "Между соснами",
+      "en": "Among the pines",
+      "zh": "在松树间"
     },
     "alt": {
-      "ru": "Старый колодец во дворе сельского дома",
-      "en": "Old well in the yard of a village house",
-      "zh": "乡村房屋院子里的老井"
+      "ru": "Аллея из высоких сосен с трещиноватой корой, образующая перспективный проход; первое дерево слева густо обвито зелёным вьюном. В конце аллеи видны забор и строения, вокруг — высокая трава с полевыми цветами.",
+      "en": "An avenue of tall pines with cracked bark, forming a perspective passage; the first tree on the left is thickly wrapped in green bindweed. At the end of the alley — a fence and buildings, surrounded by tall grass with wildflowers",
+      "zh": "一条高大松树组成的林荫道，树皮龟裂，形成透视通道；左侧第一棵树被绿色旋花缠绕。林荫道尽头可见围栏和建筑，周围是高草和野花"
     },
     "description": {
-      "ru": "Старый колодец, сохранившийся во дворе одного из домов.",
-      "en": "An old well preserved in the yard of one of the houses.",
-      "zh": "一座保存于房屋院子里的老井。"
+      "ru": "Ровные ряды сосен были высажены человеком неслучайно — они обрамляют дорогу к больнице, словно немые стражи, дарящие покой и свежесть каждому, кто входит под их сень",
+      "en": "The straight rows of pines were planted by human hands for a reason — they frame the road to the hospital, like silent sentinels, offering peace and freshness to everyone who steps into their shade.",
+      "zh": "整齐的松树行列并非偶然栽种——它们夹道通向医院，如同沉默的哨兵，为每一个走入其荫庇的人带来宁静与清新。"
     },
     "sources": {
-      "thumbnail": "images/photos/014/thumbnail.webp",
-      "medium": "images/photos/014/medium.webp",
-      "large": "images/photos/014/large.webp",
-      "original": "images/photos/014/original.jpg"
+      "thumbnail": "images/photos/0010/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "2026-07-26 00:00:00"
+  },
+  {
+    "id": "0011",
+    "title": {
+      "ru": "Больница среди елей",
+      "en": "Hospital in the midst of firs",
+      "zh": "云杉丛中的医院"
+    },
+    "alt": {
+      "ru": "Заброшенное двухэтажное здание больницы из серого кирпича, окружённое густой травой, кустами и высокими елями.",
+      "en": "An abandoned two-story hospital building of grey brick, surrounded by thick grass, bushes, and tall spruce trees",
+      "zh": "一座废弃的灰色砖砌两层医院建筑，四周被茂密的草丛、灌木和高大云杉环绕"
+    },
+    "description": {
+      "ru": "В тишине соснового бора стоит старая больница. Когда-то сюда приезжали за здоровьем, вдыхая смолистый воздух, а теперь лишь ели да трава охраняют её покой. Сельская глубинка, время здесь словно остановилось",
+      "en": "In the silence of the pine forest stands an old hospital. Once people came here for health, breathing in the resinous air, but now only spruce trees and grass guard its peace. A rural backwater, time here seems to have stood still.",
+      "zh": "松林寂静中矗立着一座老医院。曾经人们来这里疗养，呼吸着树脂芬芳的空气，如今只有云杉和青草守护着它的安宁。乡村深处，时间仿佛在这里停滞。"
+    },
+    "sources": {
+      "thumbnail": "images/photos/0011/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "2026-07-26 00:00:00"
+  },
+  {
+    "id": "0012",
+    "title": {
+      "ru": "Дорога в лес",
+      "en": "Road to the forest",
+      "zh": "去森林的路"
+    },
+    "alt": {
+      "ru": "Грунтовая дорога, уходящая вдаль между кустарниками и деревьями, на горизонте — сосновый лес и крыши сельских домов.",
+      "en": "A dirt road stretching into the distance between shrubs and trees, with a pine forest and village rooftops on the horizon",
+      "zh": "一条土路在灌木和树木间伸向远方，地平线上是松林和乡村房屋的屋顶"
+    },
+    "description": {
+      "ru": "Эта дорога помнит многих, кто по ней проходил. Она ведёт в сосновый лес — место, где время течёт иначе, где воздух густой и чистый, а тишина говорит громче слов",
+      "en": "This road remembers many who have walked along it. It leads into the pine forest — a place where time flows differently, where the air is thick and pure, and silence speaks louder than words.",
+      "zh": "这条路记得许多走过它的人。它通向松林——那里时间流淌得不同，空气浓郁而纯净，寂静比言语更有力。"
+    },
+    "sources": {
+      "thumbnail": "images/photos/0012/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "2026-07-26 00:00:00"
+  },
+  {
+    "id": "0013",
+    "title": {
+      "ru": "Добро пожаловать",
+      "en": "Welcome",
+      "zh": "欢迎"
+    },
+    "alt": {
+      "ru": "На снимке — асфальтированная дорога с разметкой, уходящая вдаль, а справа — белый указатель «Соколка» на металлических столбах. Вокруг — зелёные луга, кустарники, редкие деревья, на горизонте — строения и птица в пасмурном небе.",
+      "en": "The photo shows an asphalt road with markings stretching into the distance, and on the right — a white \"Sokolka\" sign on metal poles. Around — green meadows, shrubs, scattered trees, with buildings and a bird in the overcast sky on the horizon",
+      "zh": "照片中是一条带标线的柏油路伸向远方，右侧是金属杆上的白色“索科尔卡”路标。周围是绿色草地、灌木、零星树木，地平线上有建筑和阴天中的飞鸟"
+    },
+    "description": {
+      "ru": "Эта табличка — первый страж у ворот Соколки. Она встречает гостей среди полей и пасмурного неба, а дорога впереди обещает новые встречи.",
+      "en": "This sign is the first guardian at the gates of Sokolka. It welcomes guests among the fields and overcast sky, and the road ahead promises new encounters.",
+      "zh": "这块路标是索科尔卡门户的第一位守卫。它在田野和阴天中迎接来客，而前方的道路预示着新的相遇。"
+    },
+    "sources": {
+      "thumbnail": "images/photos/0013/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "2026-07-26 00:00:00"
+  },
+  {
+    "id": "0014",
+    "title": {
+      "ru": "Поле перед грозой",
+      "en": "Field on the eve of a thunderstorm",
+      "zh": "雷雨前夕的田野"
+    },
+    "alt": {
+      "ru": "Открытое поле под тяжёлым пасмурным небом, на горизонте — редкие деревья и дома",
+      "en": "An open field under a heavy overcast sky, with scattered trees and houses on the horizon",
+      "zh": "开阔田野上方是阴沉厚重的天空，地平线上有稀疏的树木和房屋"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0014/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "2026-07-26 00:00:00"
+  },
+  {
+    "id": "0015",
+    "title": {
+      "ru": "Соколка. Въезд в село",
+      "en": "Sokolka. Village entrance",
+      "zh": "索科尔卡。村庄入口"
+    },
+    "alt": {
+      "ru": "белый указатель «СОКОЛКА» на переднем плане среди травы и полевых цветов. За ним — зелёное поле, кустарники, деревенские дома и деревья под пасмурным серым небом, атмосфера спокойная и меланхоличная",
+      "en": "A white \"SOKOLKA\" sign in the foreground among grass and wildflowers. Behind it — a green field, shrubs, village houses, and trees under an overcast grey sky, the atmosphere calm and melancholic",
+      "zh": "前景中白色“СОКОЛКА”路标矗立在草地和野花中。其后是绿色田野、灌木、乡村房屋和树木，上方是阴沉的灰色天空，气氛宁静而忧郁"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0015/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "2026-07-26 00:00:00"
+  },
+  {
+    "id": "0016",
+    "title": {
+      "ru": "Морозный вечер",
+      "en": "Freezing evening",
+      "zh": "冰冷的傍晚"
+    },
+    "alt": {
+      "ru": "Зимний сельский пейзаж на закате: на переднем плане заснеженная земля с пнями и брёвнами, на заднем — поле, дома и столбы ЛЭП под розово-оранжевым небом.",
+      "en": "Winter rural landscape at sunset: in the foreground — snowy ground with stumps and logs, in the background — a field, houses, and power line poles under a pink-orange sky",
+      "zh": "冬日乡村日落景色：前景是积雪的地面，有树桩和原木，背景是田野、房屋和电线杆，天空呈粉橙色"
+    },
+    "description": {
+      "ru": "Морозный вечер в деревне. Лучи заходящего солнца золотят снег и пни на переднем плане, создавая тёплый контраст с холодной синевой зимнего пейзажа",
+      "en": "A frosty evening in the village. The rays of the setting sun gild the snow and stumps in the foreground, creating a warm contrast with the cold blue of the winter landscape.",
+      "zh": "村里的寒冷黄昏。夕阳余晖将前景的积雪和树桩染成金色，与冬日风景的冷蓝色形成温暖对比。"
+    },
+    "sources": {
+      "thumbnail": "images/photos/0016/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "16.11.2025"
+  },
+  {
+    "id": "0017",
+    "title": {
+      "ru": "Летний день в поле",
+      "en": "A summer day in the field",
+      "zh": "田野里的夏日"
+    },
+    "alt": {
+      "ru": "Поле с сеном и сухой кукурузой на фоне леса и ясного голубого неба",
+      "en": "A field with hay and dry corn against a forest and a clear blue sky",
+      "zh": "田野中有干草和干玉米，背景是森林和晴朗的蓝天"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0017/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "21.09.2025"
+  },
+  {
+    "id": "0018",
+    "title": {
+      "ru": "Маленькая церковь в поле",
+      "en": "Little church in the field",
+      "zh": "田野里的小教堂"
+    },
+    "alt": {
+      "ru": "Маленькая деревянная церковь с зелёной крышей и золотым куполом, стоящая в поле на фоне осенних деревьев и пасмурного неба. Слева — грунтовая дорога, уходящая вдаль",
+      "en": "A small wooden church with a green roof and a golden dome, standing in a field against autumn trees and an overcast sky. On the left — a dirt road stretching into the distanc",
+      "zh": "一座带绿色屋顶和金色穹顶的小木教堂，矗立在田野中，背景是秋树和阴天。左侧是一条伸向远方的土路"
+    },
+    "description": {
+      "ru": "Небольшой деревянный храм с золотым куполом заменил когда-то разрушенную церковь. Теперь он стоит среди осенних полей, тихий и уютный, и встречает каждого, кто ищет покой и свет",
+      "en": "A small wooden church with a golden dome has replaced the once-destroyed church. Now it stands among autumn fields, quiet and cosy, welcoming everyone seeking peace and light.",
+      "zh": "一座带金色穹顶的小木教堂取代了曾经被毁的教堂。如今它矗立在秋日田野中，安静而温馨，迎接每一个寻求安宁与光明的人。"
+    },
+    "sources": {
+      "thumbnail": "images/photos/0018/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "20.09.2025"
+  },
+  {
+    "id": "0019",
+    "title": {
+      "ru": "Сердце Соколки",
+      "en": "The heart of Sokolka",
+      "zh": "索科尔卡的心脏"
+    },
+    "alt": {
+      "ru": "Открытая поляна с жухлой травой на фоне группы деревьев с начинающей желтеть листвой. Слева — одноэтажное кирпичное здание администрации, справа — небольшой белый памятник на возвышении, небо облачное, освещение рассеянное",
+      "en": "An open glade with withered grass against a group of trees with leaves beginning to turn yellow. On the left — a one-story brick administration building, on the right — a small white monument on a raised base, cloudy sky, diffused lighting",
+      "zh": "开阔林间空地，枯草背景为树叶开始变黄的树丛。左侧是一层砖砌行政楼，右侧是一座白色小纪念碑立于高台上，天空多云，光线散射"
+    },
+    "description": {
+      "ru": "В центре села, среди тихих деревьев, расположились детская площадка, администрация и почта. Рядом — белый памятник героям Великой Отечественной, чтобы дети помнили, а время не властно над подвигом.",
+      "en": "In the centre of the village, among quiet trees, there is a playground, the administration building, and the post office. Nearby — a white monument to the heroes of the Great Patriotic War, so that children remember, and time has no power over the feat.",
+      "zh": "在村中心，安静的树木间设有儿童游乐场、行政楼和邮局。旁边是一座白色卫国战争英雄纪念碑，让孩子们铭记，时间无法磨灭英雄功绩。"
+    },
+    "sources": {
+      "thumbnail": "images/photos/0019/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "20.09.2025"
+  },
+  {
+    "id": "0020",
+    "title": {
+      "ru": "Деревенский дом",
+      "en": "Village house",
+      "zh": "乡村房屋"
+    },
+    "alt": {
+      "ru": "старый деревянный забор вдоль грунтовой дороги, за ним — одноэтажный кирпичный дом с шиферной крышей, деревья с желтеющей листвой и ржавые трубы",
+      "en": "An old wooden fence along a dirt road, behind it — a one-story brick house with a slate roof, trees with yellowing foliage, and rusty pipe",
+      "zh": "土路旁有旧木栅栏，其后是一座带石棉瓦屋顶的单层砖房，树叶泛黄的树木和生锈的管道"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0020/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "20.09.25"
+  },
+  {
+    "id": "0021",
+    "title": {
+      "ru": "Крыльцо, заросшее временем",
+      "en": "Porch overgrown with time",
+      "zh": "被时光吞噬的门廊"
+    },
+    "alt": {
+      "ru": "Заброшенное двухэтажное здание больницы из светлого кирпича, фасад которого густо увит зеленью. В центре — деревянная дверь медового оттенка под облупившимся навесом, перед ней — бетонные ступени в траве, рядом — окна с синими рамами, отражающие деревья",
+      "en": "An abandoned two-story hospital building of light brick, its facade thickly overgrown with greenery. In the center — a honey-colored wooden door under a peeling canopy, in front — concrete steps in the grass, nearby — windows with blue frames reflecting trees",
+      "zh": "一座废弃的浅色砖砌两层医院建筑，外立面爬满绿色植物。中央是一扇蜂蜜色木门，上方雨棚漆面剥落，门前是草丛中的混凝土台阶，旁边是带蓝色窗框的窗户，倒映着树木"
+    },
+    "description": {
+      "ru": "Заброшенное здание сельской больницы хранит память о десятках спасённых жизней. Его стены, увитые зелёным плющом, когда-то слышали шаги врачей и шёпот надежды. А теперь лишь природа и тишина напоминают о том, что здесь боролись за жизнь.",
+      "en": "The abandoned building of the village hospital holds the memory of dozens of lives saved. Its walls, entwined with green ivy, once heard the steps of doctors and whispers of hope. Now only nature and silence remind us that here they fought for life.",
+      "zh": "废弃的乡村医院建筑保存着数十条被挽救生命的记忆。它的墙壁爬满绿色常春藤，曾经听过医生的脚步声和希望的低语。如今只有自然和寂静提醒人们，这里曾为生命而战。"
+    },
+    "sources": {
+      "thumbnail": "images/photos/0021/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "26.07.2026"
+  },
+  {
+    "id": "0022",
+    "title": {
+      "ru": "Золото сена",
+      "en": "Gold of the hay",
+      "zh": "干草的金黄"
+    },
+    "alt": {
+      "ru": "Стога сена под деревянным навесом на фоне деревенского пейзажа с грунтовой дорогой и зелёными деревьями",
+      "en": "Haystacks under a wooden shelter against a rural landscape with a dirt road and green trees",
+      "zh": "木棚下的干草堆，背景是乡村风光，有土路和绿树"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0022/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "27.07.2025"
+  },
+  {
+    "id": "0023",
+    "title": {
+      "ru": "Маленькое солнце",
+      "en": "Little sun",
+      "zh": "小太阳"
+    },
+    "alt": {
+      "ru": "Яркий подсолнух с жёлтыми лепестками и тёмной сердцевиной на фоне вечернего неба и зелени",
+      "en": "A bright sunflower with yellow petals and a dark center against an evening sky and greenery",
+      "zh": "一朵明亮的向日葵，黄色花瓣，深色花芯，背景为傍晚天空和绿色植物"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0023/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "13.07.2025"
+  },
+  {
+    "id": "0024",
+    "title": {
+      "ru": "Одинокое дерево",
+      "en": "Lonely tree / Solitary tree",
+      "zh": "孤独的树"
+    },
+    "alt": {
+      "ru": "грунтовая дорога с колеями, уходящая вдаль между высокой травой и полевыми цветами. Справа — раскидистое дерево, на горизонте — поле и лес под слоистым вечерним небом с розоватым оттенком",
+      "en": "A dirt road with ruts stretching into the distance between tall grass and wildflowers. On the right — a spreading tree, on the horizon — a field and forest under a layered evening sky with a pinkish hue",
+      "zh": "一条带车辙的土路在高草和野花间伸向远方。右侧是一棵枝繁叶茂的大树，地平线上是田野和森林，上方是带有粉色调的分层傍晚天空"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0024/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "15.07.2025"
+  },
+  {
+    "id": "0025",
+    "title": {
+      "ru": "Вечер у воды",
+      "en": "Evening by the water",
+      "zh": "水边的傍晚"
+    },
+    "alt": {
+      "ru": "Берег реки с ветвями деревьев, образующими арку над водой. Отражение закатного неба мягко стелется по глади",
+      "en": "A riverbank with tree branches forming an arch over the water. The reflection of the sunset sky softly spreads across the surface",
+      "zh": "河岸，树枝在水面上方形成拱形。日落天空的倒影轻柔地铺展在水面上"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0025/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
     },
     "author": null,
     "device": null,
-    "dateAdded": "2026-08-14",
-    "dateTaken": null
+    "dateAdded": "25.08.2026",
+    "dateTaken": "12.07.2025"
   },
   {
-    "id": "015",
+    "id": "0026",
     "title": {
-      "ru": "Летнее поле",
-      "en": "Summer Field",
-      "zh": "夏日田野"
+      "ru": "Цветочный ковёр у церкви",
+      "en": "Flower carpet by the church",
+      "zh": "教堂旁的鲜花地毯"
     },
     "alt": {
-      "ru": "Поле возле села в летний день",
-      "en": "Field near the village on a summer day",
-      "zh": "夏日村庄附近的田野"
+      "ru": "Поле с высокой травой и мелкими фиолетовыми цветами. На фоне вечернего неба — силуэт полуразрушенной кирпичной церкви и деревьями по сторонам",
+      "en": "A field with tall grass and small purple flowers. Against the evening sky — the silhouette of a semi-ruined brick church with trees on either side",
+      "zh": "一片长满高草和紫色小花的田野。傍晚天空背景下是一座半毁砖砌教堂的轮廓，两侧有树木"
     },
-    "description": {
-      "ru": "Зелёное поле возле села в разгар лета.",
-      "en": "A green field near the village in midsummer.",
-      "zh": "盛夏时节村庄附近的绿色田野。"
-    },
+    "description": null,
     "sources": {
-      "thumbnail": "images/photos/015/thumbnail.webp",
-      "medium": "images/photos/015/medium.webp",
-      "large": "images/photos/015/large.webp",
-      "original": "images/photos/015/original.jpg"
-    },
-    "author": "Мария Иванова",
-    "device": "Nikon D750",
-    "dateAdded": "2026-08-15",
-    "dateTaken": "2025-07-21"
-  },
-  {
-    "id": "016",
-    "title": {
-      "ru": "Туманное утро",
-      "en": "Foggy Morning",
-      "zh": "雾中清晨"
-    },
-    "alt": {
-      "ru": "Туман над селом ранним утром",
-      "en": "Fog over the village early in the morning",
-      "zh": "清晨笼罩村庄的雾气"
-    },
-    "description": {
-      "ru": "Утренний туман над домами и полями.",
-      "en": "Morning fog over the houses and fields.",
-      "zh": "笼罩房屋和田野的晨雾。"
-    },
-    "sources": {
-      "thumbnail": "images/photos/016/thumbnail.webp",
-      "medium": "images/photos/016/medium.webp",
-      "large": "images/photos/016/large.webp",
-      "original": "images/photos/016/original.jpg"
-    },
-    "author": "Алексей Кузнецов",
-    "device": "Sony Alpha 7 IV",
-    "dateAdded": "2026-08-16",
-    "dateTaken": "2025-09-07"
-  },
-  {
-    "id": "017",
-    "title": {
-      "ru": "Деревья у дороги",
-      "en": "Trees by the Road",
-      "zh": "路边的树木"
-    },
-    "alt": {
-      "ru": "Деревья вдоль сельской дороги",
-      "en": "Trees along the village road",
-      "zh": "乡村道路两旁的树木"
-    },
-    "description": {
-      "ru": "Ряд старых деревьев вдоль дороги.",
-      "en": "A row of old trees along the road.",
-      "zh": "道路两旁的一排老树。"
-    },
-    "sources": {
-      "thumbnail": "images/photos/017/thumbnail.webp",
-      "medium": "images/photos/017/medium.webp",
-      "large": "images/photos/017/large.webp",
-      "original": "images/photos/017/original.jpg"
-    },
-    "author": "Дмитрий Орлов",
-    "device": null,
-    "dateAdded": "2026-08-17",
-    "dateTaken": "2023-05-16"
-  },
-  {
-    "id": "018",
-    "title": {
-      "ru": "Село после дождя",
-      "en": "Village After Rain",
-      "zh": "雨后的村庄"
-    },
-    "alt": {
-      "ru": "Улица села после летнего дождя",
-      "en": "Village street after summer rain",
-      "zh": "夏雨后的村庄街道"
-    },
-    "description": {
-      "ru": "Мокрая сельская улица после сильного летнего дождя.",
-      "en": "A wet village street after a heavy summer rain.",
-      "zh": "夏季大雨后的湿润村庄街道。"
-    },
-    "sources": {
-      "thumbnail": "images/photos/018/thumbnail.webp",
-      "medium": "images/photos/018/medium.webp",
-      "large": "images/photos/018/large.webp",
-      "original": "images/photos/018/original.jpg"
+      "thumbnail": "images/photos/0026/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
     },
     "author": null,
-    "device": "iPhone 14 Pro",
-    "dateAdded": "2026-08-18",
-    "dateTaken": "2025-08-02"
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "03.07.2025"
   },
   {
-    "id": "019",
+    "id": "0027",
     "title": {
-      "ru": "Ночной вид",
-      "en": "Night View",
-      "zh": "夜景"
+      "ru": "Пшеничное поле",
+      "en": "Wheat field",
+      "zh": "麦田"
     },
     "alt": {
-      "ru": "Село вечером с огнями домов",
-      "en": "Village in the evening with house lights",
-      "zh": "夜晚亮着房屋灯光的村庄"
+      "ru": "пшеничное поле крупным планом в лучах заходящего солнца. Колосья разной степени зрелости освещены мягким контровым светом, задний план размыт, атмосфера тёплая и умиротворяющая",
+      "en": "A close-up of a wheat field in the rays of the setting sun. Ears of grain at various stages of ripeness are lit by soft backlighting, the background is blurred, the atmosphere warm and serene",
+      "zh": "麦田特写，夕阳余晖中。不同成熟度的麦穗被柔和的逆光照亮，背景虚化，气氛温暖而宁静"
     },
     "description": {
-      "ru": "Вечерний вид на село после наступления темноты.",
-      "en": "An evening view of the village after dark.",
-      "zh": "入夜后村庄的夜景。"
+      "ru": "Наш край всегда славился хлебом. Золотистое пшеничное поле колышется под лучами заката, напоминая о щедрости земли и труде хлеборобов. Каждый колос — словно часть истории, которая кормит, согревает и вдохновляет",
+      "en": "Our land has always been famous for its bread. The golden wheat field sways in the rays of the sunset, reminding us of the generosity of the earth and the labour of grain growers. Every ear of wheat is like a part of the story that feeds, warms, and inspires.",
+      "zh": "我们的土地一直以粮食闻名。金黄的麦田在夕阳余晖中摇曳，提醒人们大地的慷慨和粮农的辛劳。每一株麦穗都像是历史的一部分，滋养、温暖并激励着我们。"
     },
     "sources": {
-      "thumbnail": "images/photos/019/thumbnail.webp",
-      "medium": "images/photos/019/medium.webp",
-      "large": "images/photos/019/large.webp",
-      "original": "images/photos/019/original.jpg"
+      "thumbnail": "images/photos/0027/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
     },
-    "author": "Ольга Морозова",
-    "device": "Sony Alpha 7 III",
-    "dateAdded": "2026-08-18",
-    "dateTaken": "2024-11-12"
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "03.07.2025"
   },
   {
-    "id": "020",
+    "id": "0028",
     "title": {
-      "ru": "Панорама села",
-      "en": "Village Panorama",
-      "zh": "村庄全景"
+      "ru": "Лесная опушка",
+      "en": "Forest edge",
+      "zh": "森林边缘"
     },
     "alt": {
-      "ru": "Панорамный вид на село Соколка",
-      "en": "Panoramic view of Sokolka village",
-      "zh": "索科尔卡村的全景"
+      "ru": "Лесная опушка с ковром из ярко-зелёного мха, среди которого растут белые берёзы и высокие сосны. Солнечные лучи пронизывают кроны, создавая игру света и теней",
+      "en": "A forest edge with a carpet of bright green moss, among which white birches and tall pines grow. Sunbeams pierce the canopy, creating a play of light and shadow",
+      "zh": "森林边缘，覆盖着鲜绿色苔藓，其间生长着白桦和高大松树。阳光穿透树冠，形成光影交错的效果"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0028/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Xiaomi Redmi Note 12",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "03.07.2025"
+  },
+  {
+    "id": "0029",
+    "title": {
+      "ru": "Берёзы на краю поля",
+      "en": "Birches at the edge of the field",
+      "zh": "田野边缘的白桦树"
+    },
+    "alt": {
+      "ru": "Лесопосадка на краю поля: белые берёзы на переднем плане, между стволами открывается вид на жёлтое поле и пасмурное вечернее небо. На траве лежат упавшие стволы и ветки",
+      "en": "A tree plantation at the edge of a field: white birches in the foreground, between the trunks a view opens onto a yellow field and an overcast evening sky. Fallen trunks and branches lie on the grass",
+      "zh": "田野边缘的林地：前景是白桦，树干间可见黄色田野和阴天傍晚的天空。草地上有倒下的树干和树枝"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0029/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Xiaomi Redmi Note 12",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "30.06.2025"
+  },
+  {
+    "id": "0030",
+    "title": {
+      "ru": "Одуванчик и пчела",
+      "en": "Dandelion and bee",
+      "zh": "蒲公英与蜜蜂"
+    },
+    "alt": {
+      "ru": "Жёлтый одуванчик с пчелой на стебле среди зелёной травы и других размытых цветов",
+      "en": "A yellow dandelion with a bee on its stem among green grass and other blurred flowers",
+      "zh": "绿色草丛和模糊花丛中，一朵黄色蒲公英，茎上有一只蜜蜂"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0030/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "12.05.2025"
+  },
+  {
+    "id": "0031",
+    "title": {
+      "ru": "Весна в деревне",
+      "en": "Spring in the village",
+      "zh": "乡村之春"
+    },
+    "alt": {
+      "ru": "Цветущий куст сирени с нежно-розовыми соцветиями, рядом — молодые берёзы с белыми стволами. На заднем плане — деревенский забор, крыша постройки и зелёный луг",
+      "en": "A blooming lilac bush with soft pink clusters, next to it — young birches with white trunks. In the background — a village fence, a roof of a building, and a green meadow",
+      "zh": "一丛盛开的丁香，淡粉色花簇，旁边是树干洁白的小白桦。背景是乡村围栏、建筑屋顶和绿色草地"
     },
     "description": {
-      "ru": "Панорамный вид на село и окружающую его природу.",
-      "en": "A panoramic view of the village and surrounding nature.",
-      "zh": "村庄及周围自然环境的全景。"
+      "ru": "Весна — время, когда природа одевается в самые нежные цвета. Сирень и берёзы создают уютный деревенский пейзаж, полный свежести и света",
+      "en": "Spring — the time when nature dresses in the softest colours. Lilacs and birches create a cosy village landscape, full of freshness and light.",
+      "zh": "春天——大自然披上最柔和色彩的季节。丁香和白桦构成充满清新与光亮的温馨乡村风景。"
     },
     "sources": {
-      "thumbnail": "images/photos/020/thumbnail.webp",
-      "medium": "images/photos/020/medium.webp",
-      "large": "images/photos/020/large.webp",
-      "original": "images/photos/020/original.jpg"
+      "thumbnail": "images/photos/0031/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
     },
-    "author": "Иван Петров",
-    "device": "DJI Mavic 3",
-    "dateAdded": "2026-08-18",
-    "dateTaken": "2025-08-25"
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "12.05.2025"
+  },
+  {
+    "id": "0032",
+    "title": {
+      "ru": "Кот на прогулке",
+      "en": "Cat on a walk",
+      "zh": "散步的猫"
+    },
+    "alt": {
+      "ru": "Пушистый серо-дымчатый кот с белой грудкой и «носочками» уверенно идёт по травянистой земле, задрав хвост. На фоне — старая кирпичная стена и деревянный столб в ярком солнечном свете",
+      "en": "A fluffy smoky-grey cat with a white chest and \"socks\" walks confidently across the grassy ground, tail held high. In the background — an old brick wall and a wooden post in bright sunlight",
+      "zh": "一只毛茸茸的烟灰色猫，胸前和爪尖白色，尾巴高翘，自信地走在草地上。背景是旧砖墙和木柱，阳光明亮"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0032/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "12.05.2025"
+  },
+  {
+    "id": "0033",
+    "title": {
+      "ru": "Где берёза склонилась",
+      "en": "Where the birch bent low",
+      "zh": "白桦垂枝的地方"
+    },
+    "alt": {
+      "ru": "Сельский пейзаж в пасмурный день: слева старая серая постройка с шиферной крышей, рядом — большая берёза у деревянного забора",
+      "en": "A rural landscape on an overcast day: on the left — an old grey building with a slate roof, next to it — a large birch by a wooden fence",
+      "zh": "阴天的乡村景色：左侧是一座带石棉瓦屋顶的旧灰色建筑，旁边是木栅栏旁的一棵大白桦"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0033/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "10.05.2025"
+  },
+  {
+    "id": "0034",
+    "title": {
+      "ru": "Берёзовая аллея",
+      "en": "Birch alley",
+      "zh": "白桦林荫道"
+    },
+    "alt": {
+      "ru": "Весенняя лесная тропинка с колеями, уходящая вдаль между высокими берёзами с белыми стволами и молодой листвой",
+      "en": "A spring forest path with ruts stretching into the distance between tall birches with white trunks and young foliage",
+      "zh": "一条春天林间小径，带车辙，在树干洁白、长满嫩叶的高大白桦间伸向远方"
+    },
+    "description": {
+      "ru": "В наших краях есть и сосновый лес, и светлая берёзовая посадка. Тропинка уводит среди белых стволов и зелени, наполняя душу свежестью и тишиной",
+      "en": "In our region there is both a pine forest and a bright birch grove. A path leads among white trunks and greenery, filling the soul with freshness and silence.",
+      "zh": "我们的家乡既有松林，也有明亮的白桦林。小径在白桦树干和绿意间穿行，让心灵充满清新与宁静。"
+    },
+    "sources": {
+      "thumbnail": "images/photos/0034/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "20.04.2025"
+  },
+  {
+    "id": "0035",
+    "title": {
+      "ru": "Деревня на закате",
+      "en": "Village at sunset",
+      "zh": "日落下的村庄"
+    },
+    "alt": {
+      "ru": "На переднем плане ветки кустарников с первой зеленью, за ними — поле, деревенские дома, лес и полуразрушенная церковь со шпилем. Цвета приглушённые, небо розово-персиковое",
+      "en": "In the foreground — shrub branches with the first green leaves, behind them — a field, village houses, a forest, and a semi-ruined church with a spire. Colours are muted, the sky is pink-peach",
+      "zh": "前景是长出新叶的灌木枝条，其后是田野、乡村房屋、森林和一座带尖顶的半毁教堂。色彩柔和，天空呈粉桃色"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0035/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "19.04.2025"
+  },
+  {
+    "id": "0036",
+    "title": {
+      "ru": "Тихий вечер",
+      "en": "Quiet evening",
+      "zh": "宁静的傍晚"
+    },
+    "alt": {
+      "ru": "На переднем плане тёмные силуэты деревьев без листвы обрамляют кадр, а в центре — закатное солнце, окрашивающее небо в оранжевые и розовые тона. На горизонте — лес, поле и низкий деревянный забор",
+      "en": "In the foreground — dark silhouettes of leafless trees frame the shot, and in the centre — the setting sun colouring the sky in orange and pink tones. On the horizon — a forest, a field, and a low wooden fence",
+      "zh": "前景中光秃树木的深色剪影框住画面，中央是落日，将天空染成橙粉色。地平线上是森林、田野和低矮的木栅栏"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0036/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "19.04.2025"
+  },
+  {
+    "id": "0037",
+    "title": {
+      "ru": "Берёзовая ветвь",
+      "en": "Birch branch",
+      "zh": "白桦树枝"
+    },
+    "alt": {
+      "ru": "На переднем плане ветви берёзы с серёжками и молодыми листочками, на заднем — парковая дорожка, деревья и солнечный свет",
+      "en": "In the foreground — birch branches with catkins and young leaves, in the background — a park path, trees, and sunligh",
+      "zh": "前景是挂着柔荑花序和嫩叶的白桦枝条，背景是公园小径、树木和阳光"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0037/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "20.04.2025"
+  },
+  {
+    "id": "0038",
+    "title": {
+      "ru": "Лесная дорога",
+      "en": "Forest road",
+      "zh": "林间道路"
+    },
+    "alt": {
+      "ru": "Лесная грунтовая дорога уходит вглубь кадра между высокими берёзами и лиственными деревьями. Среди серо-коричневых стволов выделяется зелёное хвойное дерево, на земле — прошлогодняя листва и первая молодая трава, небо светлое, облачное.",
+      "en": "A forest dirt road recedes into the depth of the frame between tall birches and deciduous trees. Among the grey-brown trunks, a green coniferous tree stands out, on the ground — last year's leaves and the first young grass, the sky is bright and cloud",
+      "zh": "一条林间土路在高大白桦和阔叶树之间伸向画面深处。灰褐色树干间有一棵绿色针叶树格外显眼，地上是去年的落叶和初生的嫩草，天空明亮多云"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0038/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "20.04.2025"
+  },
+  {
+    "id": "0039",
+    "title": {
+      "ru": "Лесное спокойствие",
+      "en": "Forest calm",
+      "zh": "森林的宁静"
+    },
+    "alt": {
+      "ru": "Высокие деревья с тёмными стволами и зелёными кронами, между ними пробивается свет. Земля покрыта травой и хвоей",
+      "en": "Tall trees with dark trunks and green canopies, with light breaking through between them. The ground is covered with grass and pine needles",
+      "zh": "树干深色、树冠翠绿的高大树木，光线从其间穿过。地面覆盖着草和松针"
+    },
+    "description": {
+      "ru": "Наш богатый сосновый лес",
+      "en": "Our rich pine forest",
+      "zh": "我们茂密的松林"
+    },
+    "sources": {
+      "thumbnail": "images/photos/0039/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "20.04.2025"
+  },
+  {
+    "id": "0040",
+    "title": {
+      "ru": "Зимняя дорога",
+      "en": "Winter road",
+      "zh": "冬日的道路"
+    },
+    "alt": {
+      "ru": "Заснеженная сельская дорога уходит вдаль между белыми полями, домами с заснеженными крышами и голыми деревьями в инее",
+      "en": "A snow-covered rural road stretches into the distance between white fields, houses with snow-covered roofs, and bare trees covered in hoarfros",
+      "zh": "一条积雪的乡村道路在白色田野、屋顶积雪的房屋和挂满白霜的树木之间伸向远方"
+    },
+    "description": {
+      "ru": "Заснеженная сельская дорога — главная артерия этих мест. От неё в разные стороны расходятся проулки, ведущие к домам, садам и околицам. В морозной тишине она уходит вдаль, соединяя поля, деревья и людские судьбы в один зимний пейзаж",
+      "en": "The snow-covered rural road is the main artery of these places. From it, lanes branch off in different directions, leading to houses, gardens, and outskirts. In the frosty silence, it stretches into the distance, uniting fields, trees, and human destinies into a single winter landscape.",
+      "zh": "积雪的乡村道路是这些地方的主要动脉。从它分出多条小巷，通向房屋、花园和村郊。在寒冷的寂静中，它伸向远方，将田野、树木和人的命运联结成一幅完整的冬日风景。"
+    },
+    "sources": {
+      "thumbnail": "images/photos/0040/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "08.02.2025"
+  },
+  {
+    "id": "0041",
+    "title": {
+      "ru": "Снежный путь",
+      "en": "Snowy path",
+      "zh": "雪中小路"
+    },
+    "alt": {
+      "ru": "Пейзажный снимок зимнего леса. Дорога уходит вдаль в гущу заснеженных деревьев и сосен",
+      "en": "A landscape shot of a winter forest. The road recedes into the thick of snow-covered trees and pines",
+      "zh": "冬季森林风景照。道路伸向被雪覆盖的树木和松林深处"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0041/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "08.02.2025"
+  },
+  {
+    "id": "0042",
+    "title": {
+      "ru": "Морозная сказка",
+      "en": "Frosty fairy tale",
+      "zh": "冰霜童话"
+    },
+    "alt": {
+      "ru": "Заснеженная поляна среди густого хвойного и лиственного леса, деревья покрыты снежными шапками. Извилистая тропинка уходит вглубь, слева — высокое дерево с голыми ветвями.",
+      "en": "A snow-covered clearing among dense coniferous and deciduous forest, trees topped with snow caps. A winding path leads deeper, on the left — a tall tree with bare branches",
+      "zh": "茂密针叶和阔叶林中的积雪空地，树冠覆盖着雪帽。一条蜿蜒小径伸向深处，左侧是一棵光秃树枝的高树"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0042/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "08.02.2025"
+  },
+  {
+    "id": "0043",
+    "title": {
+      "ru": "Зимний день",
+      "en": "Winter day",
+      "zh": "冬日"
+    },
+    "alt": {
+      "ru": "Зимний пейзаж.на заднем плане — высокие сосны в снегу и двухэтажное бежевое здание. На переднем плане — деревянная опора ЛЭП и зелёный забор",
+      "en": "Winter landscape. In the background — tall pines in snow and a two-story beige building. In the foreground — a wooden power line pole and a green fence",
+      "zh": "冬日景色。背景是白雪覆盖的高大松树和一座米色两层建筑。前景是木质电线杆和绿色围栏"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0043/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "08.02.2025"
+  },
+  {
+    "id": "0044",
+    "title": {
+      "ru": "Снежный путь",
+      "en": "Snowy road",
+      "zh": "雪路"
+    },
+    "alt": {
+      "ru": "Заснеженная дорога с колеями уходит вдаль между высокими сугробами. На заднем плане — поле, редкий лес и ярко-синее небо, вдалеке у обочины видна маленькая женская фигурка",
+      "en": "A snow-covered road with ruts stretches into the distance between high snowbanks. In the background — a field, sparse forest, and bright blue sky, in the distance a small female figure is visible by the roadside",
+      "zh": "积雪道路带车辙在高大雪堆间伸向远方。背景是田野、稀疏的森林和明亮的蓝天，远处路边可见一个小小的女性身影"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0044/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "08.02.2025"
+  },
+  {
+    "id": "0045",
+    "title": {
+      "ru": "Зимний простор",
+      "en": "Winter expanse",
+      "zh": "冬日旷野"
+    },
+    "alt": {
+      "ru": "Зимний пейзаж в светлых пастельных тонах: заснеженное поле с цепочкой следов, уходящей вдаль. На заднем плане — голые деревья и силуэты деревенских домов, атмосфера морозная, тихая и умиротворённая",
+      "en": "A winter landscape in soft pastel tones: a snow-covered field with a chain of footprints stretching into the distance. In the background — bare trees and silhouettes of village houses, the atmosphere frosty, quiet, and serene",
+      "zh": "柔和粉彩色调的冬日景色：积雪的田野上有一串脚印伸向远方。背景是光秃的树木和乡村房屋的轮廓，气氛寒冷、安静而平和"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0045/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "08.02.2025"
+  },
+  {
+    "id": "0046",
+    "title": {
+      "ru": "Деревня в снегу",
+      "en": "Village in the snow",
+      "zh": "雪中村庄"
+    },
+    "alt": {
+      "ru": "Зимний деревенский пейзаж в солнечный день: заснеженное поле, деревянный забор, дома с белыми крышами и деревья в инее под ярко-голубым небом",
+      "en": "A winter village landscape on a sunny day: a snow-covered field, a wooden fence, houses with white roofs, and trees covered in hoarfrost under a bright blue sky",
+      "zh": "晴日乡村冬景：积雪田野、木栅栏、白色屋顶的房屋和挂满白霜的树木，上方是明亮的蓝天"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0046/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "08.02.2025"
+  },
+  {
+    "id": "0047",
+    "title": {
+      "ru": "Морозное утро",
+      "en": "Frosty morning",
+      "zh": "寒冷的早晨"
+    },
+    "alt": {
+      "ru": "На заснеженной поляне растут стройные берёзы, справа — одноэтажное кирпичное здание. Солнце светит сквозь ветви, создавая длинные тени на снегу",
+      "en": "Slender birches grow on a snow-covered clearing, on the right — a one-story brick building. The sun shines through the branches, casting long shadows on the snow",
+      "zh": "积雪空地上长着挺拔的白桦，右侧是一座单层砖房。阳光透过树枝，在雪地上投下长长的影子"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0047/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "08.02.2025"
+  },
+  {
+    "id": "0048",
+    "title": {
+      "ru": "Морозный день у школы",
+      "en": "Frosty day by the school",
+      "zh": "学校旁的寒冷日子"
+    },
+    "alt": {
+      "ru": "Заснеженная поляна с тропинкой, на заднем плане — лес и ели в инее, слева — одноэтажное здание с флагом, справа — двухэтажное с окнами. В центре — детская площадка с качелями и горкой, погода солнечная, морозная",
+      "en": "A snow-covered clearing with a path, in the background — a forest and fir trees covered in hoarfrost, on the left — a one-story building with a flag, on the right — a two-story building with windows. In the centre — a playground with swings and a slide, sunny and frosty weather",
+      "zh": "积雪空地有一条小径，背景是森林和挂满白霜的冷杉，左侧是一座带旗帜的单层建筑，右侧是一座带窗户的两层建筑。中央是带秋千和滑梯的儿童游乐场，天气晴朗寒冷"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0048/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "08.02.2025"
+  },
+  {
+    "id": "0049",
+    "title": {
+      "ru": "Снег у крыльца",
+      "en": "Snow by the porch",
+      "zh": "门廊前的积雪"
+    },
+    "alt": {
+      "ru": "Зимний пейзаж у здания сельской администрации: на переднем плане расчищенная дорожка, вокруг — ели и деревья в снегу",
+      "en": "A winter landscape by the village administration building: in the foreground — a cleared path, around — fir trees and trees in snow",
+      "zh": "乡村行政楼旁的冬日景色：前景是清扫过的小径，周围是积雪的冷杉和树木"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0049/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "08.02.2025"
+  },
+  {
+    "id": "0050",
+    "title": {
+      "ru": "Зимний двор школы",
+      "en": "Winter schoolyard",
+      "zh": "冬日校园"
+    },
+    "alt": {
+      "ru": "Зимний пейзаж у школы: слева — аллея голых берёз, справа — ели в снегу и двухэтажное здание из светлого кирпича с большими окнами. Солнце пробивается сквозь ветви, снег искрится",
+      "en": "A winter landscape by the school: on the left — an avenue of bare birches, on the right — fir trees in snow and a two-story light-brick building with large windows. The sun breaks through the branches, snow sparkles",
+      "zh": "学校旁的冬日景色：左侧是光秃白桦林荫道，右侧是积雪的冷杉和一座浅砖色两层建筑，窗户很大。阳光穿过树枝，雪地闪闪发光"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0050/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "08.02.2025"
+  },
+  {
+    "id": "0051",
+    "title": {
+      "ru": "Зимнняя изба",
+      "en": "Winter log hut",
+      "zh": "冬日木屋"
+    },
+    "alt": {
+      "ru": "Старый деревянный дом из тёмных брёвен с шиферной крышей в шапках снега. Вокруг — глубокий снег, голые деревья и заснеженные стога",
+      "en": "An old wooden house of dark logs with a slate roof topped with snow caps. Around — deep snow, bare trees, and snow-covered haystack",
+      "zh": "一座深色原木旧木屋，石棉瓦屋顶上覆盖着雪帽。周围是厚厚的积雪、光秃的树木和积雪的干草堆"
+    },
+    "description": {
+      "ru": "Первый дом на достаточно молодой улице в селе - Садовой",
+      "en": "The first house on a fairly young street in the village — Sadovaya Street.",
+      "zh": "村里一条较新的街道——萨多瓦亚街上的第一座房子。"
+    },
+    "sources": {
+      "thumbnail": "images/photos/0051/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "08.02.2025"
+  },
+  {
+    "id": "0052",
+    "title": {
+      "ru": "Белая дорога",
+      "en": "White road",
+      "zh": "白色道路"
+    },
+    "alt": {
+      "ru": "Заснеженная лесная дорога уходит вдаль между деревьями в инее. Слева — ствол берёзы, справа — белый забор, снег покрывает землю и ветви",
+      "en": "A snow-covered forest road recedes into the distance between trees covered in hoarfrost. On the left — a birch trunk, on the right — a white fence, snow covers the ground and branches",
+      "zh": "积雪的林间道路在挂满白霜的树木间伸向远方。左侧是白桦树干，右侧是白色围栏，雪覆盖了地面和树枝"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0052/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Nikon d5100",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "08.02.2025"
+  },
+  {
+    "id": "0053",
+    "title": {
+      "ru": "Берёза в золоте",
+      "en": "Birch in gold",
+      "zh": "金色的白桦"
+    },
+    "alt": {
+      "ru": "Высокая берёза с белым стволом и золотистой осенней кроной. Солнечные лучи пробиваются сквозь листву, создавая эффект сияния. На заднем плане — размытый зелёный пейзаж и забор",
+      "en": "A tall birch with a white trunk and a golden autumn crown. Sunbeams penetrate the foliage, creating a glowing effect. In the background — a blurred green landscape and a fence",
+      "zh": "一棵高大白桦，树干洁白，树冠金黄秋色。阳光穿过树叶，形成发光效果。背景是虚化的绿色风景和围栏"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0053/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Xiaomi Redmi Note 12",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "12.10.2025"
+  },
+  {
+    "id": "0054",
+    "title": {
+      "ru": "Золотое дерево",
+      "en": "Golden tree",
+      "zh": "金色的树"
+    },
+    "alt": {
+      "ru": "Серый тротуар, усыпанный жёлтыми листьями, рядом — дерево с золотистой кроной, сквозь которую пробивается солнце. На заднем плане — синее небо и стволы деревьев",
+      "en": "A grey pavement strewn with yellow leaves, next to it — a tree with a golden crown through which the sun breaks. In the background — blue sky and tree trunks",
+      "zh": "灰色人行道上铺满黄叶，旁边是一棵金冠树，阳光从树叶间穿过。背景是蓝天和树干"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0054/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Xiaomi Redmi Note 12",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "2025-10-12 00:00:00"
+  },
+  {
+    "id": "0055",
+    "title": {
+      "ru": "Дом и берёза",
+      "en": "House and birch",
+      "zh": "房屋与白桦"
+    },
+    "alt": {
+      "ru": "На переднем плане — кирпичный дом с двускатной крышей и большая старая берёза с золотистой кроной. На заднем плане — поле, грунтовая дорога и синее небо с облаками",
+      "en": "In the foreground — a brick house with a gable roof and a large old birch with a golden crown. In the background — a field, a dirt road, and a blue sky with clouds",
+      "zh": "前景是一座带人字形屋顶的砖房和一棵树冠金黄的老白桦。背景是田野、土路和带云朵的蓝天"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0055/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Xiaomi Redmi Note 12",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "2025-10-12 00:00:00"
+  },
+  {
+    "id": "0056",
+    "title": {
+      "ru": "Шёпот листьев",
+      "en": "Whisper of leaves",
+      "zh": "叶子的低语"
+    },
+    "alt": {
+      "ru": "Лесная тропинка, усыпанная жёлтыми листьями, проходит между высокими берёзами. Солнечный свет мягко пробивается сквозь кроны",
+      "en": "A forest path strewn with yellow leaves runs between tall birches. Sunlight softly filters through the canopy",
+      "zh": "一条铺满黄叶的林间小径在高大白桦间穿过。阳光柔和地透过树冠"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0056/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Xiaomi Redmi Note 12",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "2025-10-12 00:00:00"
+  },
+  {
+    "id": "0057",
+    "title": {
+      "ru": "Сельский двор",
+      "en": "Village yard",
+      "zh": "农家院落"
+    },
+    "alt": {
+      "ru": "На переднем плане — зелёная трава и цветы, за старым деревянным забором — синий дом с серой крышей и табличкой «42». На фоне — деревья и ярко-синее небо с облаками",
+      "en": "In the foreground — green grass and flowers, behind an old wooden fence — a blue house with a grey roof and a sign \"42\". In the background — trees and a bright blue sky with clouds",
+      "zh": "前景是绿草和花朵，旧木栅栏后是一座带灰色屋顶和“42”门牌的蓝色房屋。背景是树木和带云朵的明亮蓝天"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0057/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Xiaomi Redmi Note 12",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "2025-07-21 00:00:00"
+  },
+  {
+    "id": "0058",
+    "title": {
+      "ru": "Церковь в дымке",
+      "en": "Church in the haze",
+      "zh": "薄雾中的教堂"
+    },
+    "alt": {
+      "ru": "В предрассветных сумерках над лугом стелется лёгкий туман. На заднем плане — силуэт церкви с крестом, рядом — деревянное здание",
+      "en": "In the pre-dawn twilight, a light mist spreads over the meadow. In the background — the silhouette of a church with a cross, next to it — a wooden building",
+      "zh": "黎明前的暮色中，薄雾在草地上弥漫。背景是带十字架的教堂剪影，旁边是一座木建筑"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0058/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Xiaomi Redmi Note 12",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "2025-07-19 00:00:00"
+  },
+  {
+    "id": "0059",
+    "title": {
+      "ru": "Внутри церкви",
+      "en": "Inside the church",
+      "zh": "教堂内部"
+    },
+    "alt": {
+      "ru": "Интерьер полуразрушенной старинной церкви: высокие сводчатые потолки, массивные колонны и арки, сквозь которые виден заросший двор",
+      "en": "The interior of a semi-ruined old church: high vaulted ceilings, massive columns and arches, through which an overgrown courtyard is visible",
+      "zh": "一座半毁古老教堂的内部：高拱顶、巨大柱子和拱门，透过拱门可见杂草丛生的庭院"
+    },
+    "description": null,
+    "sources": {
+      "thumbnail": "images/photos/0059/thumbnail.webp",
+      "medium": null,
+      "large": null,
+      "original": null
+    },
+    "author": null,
+    "device": "Xiaomi Redmi Note 12",
+    "dateAdded": "25.08.2026",
+    "dateTaken": "2025-07-18 00:00:00"
   }
 ]

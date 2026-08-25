@@ -1,5 +1,5 @@
 const PHOTO_SETS = {
-  previewSlider: ['013', '001', '005', '009', '017'],
+  previewSlider: ['0015', '0035', '0025', '0006', '0030'],
 } as const;
 
 export default PHOTO_SETS;

@@ -1,6 +1,7 @@
 import type { LucideIcon } from 'lucide-react';
 
-import { BookMarked, Images, Info, Landmark, Settings } from 'lucide-react';
+import { BookMarked, Images, Info, Settings } from 'lucide-react';
+// import { Landmark } from 'lucide-react';
 
 export interface NavigationItem {
   href: string;
@@ -10,15 +11,20 @@ export interface NavigationItem {
 
 export const desktopNavigation: readonly NavigationItem[] = [
   {
-    href: '/history',
-    translationKey: 'pages.history.title',
+    href: '/history-and-culture',
+    translationKey: 'pages.historyAndCulture.title',
     icon: BookMarked,
   },
-  {
-    href: '/attractions',
-    translationKey: 'pages.attractions.title',
-    icon: Landmark,
-  },
+  // {
+  //   href: '/history',
+  //   translationKey: 'pages.history.title',
+  //   icon: BookMarked,
+  // },
+  // {
+  //   href: '/attractions',
+  //   translationKey: 'pages.attractions.title',
+  //   icon: Landmark,
+  // },
   {
     href: '/gallery',
     translationKey: 'pages.gallery.title',
